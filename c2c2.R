@@ -21,3 +21,5 @@ nll <- make.NegLogLik(normals, c(1,FALSE))
 x<-seq(1.7,1.9,len=100)
 y <- sapply(x,nll)
 plot(x,exp(-(y-min(y))),type='l')
+
+x<- Sys.time()
