@@ -1,0 +1,674 @@
+the_geom,OBJECTID,CAM_NUM,NOTES,LOCATION,PROJ,XCOORD,YCOORD
+"{type=Point, coordinates=List(-76.60947777806021, 39.32478055585468)}",1,535,,Greenmount  - 30th,BPD Cameras,-76.60947777,39.32478055
+"{type=Point, coordinates=List(-76.61052500032619, 39.29905277779921)}",2,2508,,JFX North,BPD Cameras,-76.610525,39.29905277
+"{type=Point, coordinates=List(-76.61066666649648, 39.30105833258659)}",3,2507,,JFX south,BPD Cameras,-76.61066666,39.30105833
+"{type=Point, coordinates=List(-76.61072777792641, 39.301263888792114)}",4,2506,,Fallsway and Eager,BPD Cameras,-76.61072777,39.30126388
+"{type=Point, coordinates=List(-76.6098277777206, 39.30217499994844)}",5,2505,,Warden St Lot,BPD Cameras,-76.60982777,39.30217499
+"{type=Point, coordinates=List(-76.60820555639778, 39.30102777772807)}",6,2504,,Eager St(widows Peak),BPD Cameras,-76.60820555,39.30102777
+"{type=Point, coordinates=List(-76.61058888929246, 39.29773888912454)}",7,2503,,Monument and Fallsway,BPD Cameras,-76.61058888,39.29773888
+"{type=Point, coordinates=List(-76.60893611120277, 39.29879999968301)}",8,2502,,Madison and Constitution,BPD Cameras,-76.60893611,39.29879999
+"{type=Point, coordinates=List(-76.66911388930494, 39.30514166663565)}",9,930,,Rosedale - Brighton,BPD Cameras,-76.66911388,39.30514166
+"{type=Point, coordinates=List(-76.66092499948412, 39.300391667442966)}",10,932,,Riggs - Braddish,BPD Cameras,-76.66092499,39.30039166
+"{type=Point, coordinates=List(-76.66348333283798, 39.30029722199193)}",11,931,,Riggs - Dukeland,BPD Cameras,-76.66348333,39.30029722
+"{type=Point, coordinates=List(-76.63350148051639, 39.30434818383968)}",12,1113,,Division St - Islamic Way,BPD Cameras,-76.63350148,39.30434818
+"{type=Point, coordinates=List(-76.6366138890377, 39.2866250001965)}",13,1029,,Lombard & Carrolton,BPD Cameras,-76.63661388,39.286625
+"{type=Point, coordinates=List(-76.63157400340762, 39.302753056343654)}",14,1118,,Division St - Mosher St,BPD Cameras,-76.631574,39.30275305
+"{type=Point, coordinates=List(-76.61468888856365, 39.28421111134716)}",15,1920,,Charles and Conway,BPD Cameras,-76.61468888,39.28421111
+"{type=Point, coordinates=List(-76.61765555614613, 39.284061110876614)}",16,1931,,Sharp and Conway,BPD Cameras,-76.61765555,39.28406111
+"{type=Point, coordinates=List(-76.61844722247379, 39.278305556137035)}",17,1922,,182 Hamburg st,BPD Cameras,-76.61844722,39.27830555
+"{type=Point, coordinates=List(-76.6345400981702, 39.300591402663464)}",18,1116,,Mosher St - Argyle St,BPD Cameras,-76.63454009,39.3005914
+"{type=Point, coordinates=List(-76.63350148051639, 39.30434818383968)}",19,1113,,Division St - Islamic Way,BPD Cameras,-76.63350148,39.30434818
+"{type=Point, coordinates=List(-76.63450850272231, 39.305122040956284)}",20,1111,,Division - Laurens,BPD Cameras,-76.6345085,39.30512204
+"{type=Point, coordinates=List(-76.63644287531703, 39.30669205768647)}",21,1107,,Division - Presstman,BPD Cameras,-76.63644287,39.30669205
+"{type=Point, coordinates=List(-76.64127059154201, 39.30762937407028)}",22,1102,,Carey St - Baker St,BPD Cameras,-76.64127059,39.30762937
+"{type=Point, coordinates=List(-76.5826939997134, 39.30477700029094)}",23,625,,Milton & E Biddle St,BPD Cameras,-76.58269399,39.304777
+"{type=Point, coordinates=List(-76.63521220663657, 39.30340229698135)}",24,1966,,Avenue Market Parking Lot,BPD Cameras,-76.6352122,39.30340229
+"{type=Point, coordinates=List(-76.62107399948339, 39.290996000066315)}",25,01,,Eutaw-Lexington Market,BPD Cameras,-76.62107399,39.290996
+"{type=Point, coordinates=List(-76.62100940923314, 39.29039532375505)}",26,02,,Eutaw-Fayette,BPD Cameras,-76.6210094,39.29039532
+"{type=Point, coordinates=List(-76.62098500056481, 39.28932400019009)}",27,03,,Eutaw-Baltimore,BPD Cameras,-76.620985,39.289324
+"{type=Point, coordinates=List(-76.62094800018488, 39.28867799982765)}",28,04,,Eutaw-Redwood,BPD Cameras,-76.620948,39.28867799
+"{type=Point, coordinates=List(-76.62085399988749, 39.28752800027905)}",29,05,,Eutaw-Lombard,BPD Cameras,-76.62085399,39.287528
+"{type=Point, coordinates=List(-76.62067500015677, 39.285245000051546)}",30,06,,Eutaw-Camden,BPD Cameras,-76.620675,39.285245
+"{type=Point, coordinates=List(-76.62212900041128, 39.28625699993212)}",31,07,,Paca-Pratt,BPD Cameras,-76.622129,39.28625699
+"{type=Point, coordinates=List(-76.62361600019788, 39.287415000387284)}",32,08,,Greene-Lombard,BPD Cameras,-76.623616,39.287415
+"{type=Point, coordinates=List(-76.6236949998364, 39.28922199991483)}",33,09,,Greene-Baltimore,BPD Cameras,-76.62369499,39.28922199
+"{type=Point, coordinates=List(-76.62377700048175, 39.29033300017469)}",34,10,,Greene-Fayette,BPD Cameras,-76.623777,39.290333
+"{type=Point, coordinates=List(-76.62383700052072, 39.29137700044108)}",35,11,,Greene-Lexington,BPD Cameras,-76.623837,39.291377
+"{type=Point, coordinates=List(-76.62241099961119, 39.290370000277846)}",36,12,,Paca-Fayette,BPD Cameras,-76.62241099,39.29037
+"{type=Point, coordinates=List(-76.61934497665766, 39.28756912739982)}",37,13,,Howard-Lombard,BPD Cameras,-76.61934497,39.28756912
+"{type=Point, coordinates=List(-76.61936899989124, 39.2863149996113)}",38,14,,Howard-Pratt,BPD Cameras,-76.61936899,39.28631499
+"{type=Point, coordinates=List(-76.61928300016163, 39.28530199986979)}",39,15,,Howard-Camden,BPD Cameras,-76.619283,39.28530199
+"{type=Point, coordinates=List(-76.61619099965162, 39.286452000221)}",40,16,,S Hanover- W Pratt,BPD Cameras,-76.61619099,39.286452
+"{type=Point, coordinates=List(-76.61769200007332, 39.2876680000085)}",41,17,,Hopkins Pl - W Lombard St,BPD Cameras,-76.617692,39.287668
+"{type=Point, coordinates=List(-76.61778999954743, 39.28938399974704)}",42,18,,Park Ave-W Baltimore St,BPD Cameras,-76.61778999,39.28938399
+"{type=Point, coordinates=List(-76.61948000021472, 39.289386000124296)}",43,19,,S Howard St - W Baltimore St,BPD Cameras,-76.61948,39.289386
+"{type=Point, coordinates=List(-76.61949000056008, 39.29044699971935)}",44,20,,N Howard St-W Fayette St,BPD Cameras,-76.61949,39.29044699
+"{type=Point, coordinates=List(-76.61966400039873, 39.291602000038985)}",45,21,,N Howard St - W Lexington St,BPD Cameras,-76.619664,39.291602
+"{type=Point, coordinates=List(-76.61801999967356, 39.29158100011018)}",46,22,,Park Ave-W Lexington St,BPD Cameras,-76.61801999,39.291581
+"{type=Point, coordinates=List(-76.61708399958074, 39.291669999813294)}",47,23,,N Liberty St - W Lexington St,BPD Cameras,-76.61708399,39.29166999
+"{type=Point, coordinates=List(-76.61767400030202, 39.29045100028151)}",48,24,,N Liberty St-W Fayette St,BPD Cameras,-76.617674,39.290451
+"{type=Point, coordinates=List(-76.61798499950945, 39.29050099982795)}",49,25,,Park Ave - W Fayette St,BPD Cameras,-76.61798499,39.29050099
+"{type=Point, coordinates=List(-76.61684319031997, 39.292344397790686)}",50,26,,N Liberty St-Clay St,BPD Cameras,-76.61684319,39.29234439
+"{type=Point, coordinates=List(-76.61677699973664, 39.29301900007957)}",51,27,,Cathedral St - W Saratoga St,BPD Cameras,-76.61677699,39.293019
+"{type=Point, coordinates=List(-76.61679299956396, 39.29405300019025)}",52,28,,Cathedral St-W Mulberry St,BPD Cameras,-76.61679299,39.294053
+"{type=Point, coordinates=List(-76.61548899967683, 39.29415100001895)}",53,29,,N Charles St - E Mulberry St,BPD Cameras,-76.61548899,39.294151
+"{type=Point, coordinates=List(-76.6168720001383, 39.295047999927284)}",54,30,,Cathedral St-W Franklin St,BPD Cameras,-76.616872,39.29504799
+"{type=Point, coordinates=List(-76.61832400046848, 39.29501100021042)}",55,31,,Park Ave - W Franklin St,BPD Cameras,-76.618324,39.295011
+"{type=Point, coordinates=List(-76.61822400019851, 39.29401699976406)}",56,32,,Park Ave-W Mulberry St,BPD Cameras,-76.618224,39.29401699
+"{type=Point, coordinates=List(-76.6181579995468, 39.29295399959907)}",57,33,,Park Ave - W Saratoga St,BPD Cameras,-76.61815799,39.29295399
+"{type=Point, coordinates=List(-76.61965900046312, 39.292896000137894)}",58,34,,N Howard St - W Saratoga St,BPD Cameras,-76.619659,39.292896
+"{type=Point, coordinates=List(-76.61977300012364, 39.293986999916385)}",59,35,,N Howard St - W Mulberry St,BPD Cameras,-76.619773,39.29398699
+"{type=Point, coordinates=List(-76.61979737383832, 39.29495596899531)}",60,36,,N Howard St-W Franklin St,BPD Cameras,-76.61979737,39.29495596
+"{type=Point, coordinates=List(-76.61991700026542, 39.29620900011834)}",61,37,,N Howard St - W Centre St,BPD Cameras,-76.619917,39.296209
+"{type=Point, coordinates=List(-76.62131699951868, 39.29578999976339)}",62,38,,N Eutaw St-George St,BPD Cameras,-76.62131699,39.29578999
+"{type=Point, coordinates=List(-76.62232999948857, 39.28927800015219)}",63,39,,S Paca St - W Baltimore St,BPD Cameras,-76.62232999,39.289278
+"{type=Point, coordinates=List(-76.62114499960097, 39.292830000144725)}",64,40,,N Eutaw St-W Saratoga,BPD Cameras,-76.62114499,39.29283
+"{type=Point, coordinates=List(-76.62253900053139, 39.29282200004747)}",65,41,,N Paca St - W Saratoga St,BPD Cameras,-76.622539,39.292822
+"{type=Point, coordinates=List(-76.62257099961067, 39.293837000418165)}",66,42,,N Paca St-W Mulberry St,BPD Cameras,-76.62257099,39.293837
+"{type=Point, coordinates=List(-76.62244100028782, 39.291427999967226)}",67,43,,N Paca St - W Lexington St,BPD Cameras,-76.622441,39.29142799
+"{type=Point, coordinates=List(-76.62395100034688, 39.29479199978115)}",68,44,,N Greene St-W Franklin St,BPD Cameras,-76.623951,39.29479199
+"{type=Point, coordinates=List(-76.62389499983931, 39.29283999997947)}",69,45,,N Greene St - W Saratoga St,BPD Cameras,-76.62389499,39.29283999
+"{type=Point, coordinates=List(-76.62126000020282, 39.294889999899205)}",70,46,,N Eutaw St-W Franklin St,BPD Cameras,-76.62126,39.29488999
+"{type=Point, coordinates=List(-76.62127018012609, 39.296695864648235)}",71,47,,N Eutaw St - Druid Hill Ave,BPD Cameras,-76.62127018,39.29669586
+"{type=Point, coordinates=List(-76.62119900008763, 39.29391499959912)}",72,48,,N Eutaw St-W Mulberry St,BPD Cameras,-76.621199,39.29391499
+"{type=Point, coordinates=List(-76.62265599960085, 39.29579200027329)}",73,49,,N Paca St - George St,BPD Cameras,-76.62265599,39.295792
+"{type=Point, coordinates=List(-76.61695718829695, 39.29629940501087)}",74,50,,Cathedral St-W Centre St,BPD Cameras,-76.61695718,39.2962994
+"{type=Point, coordinates=List(-76.61647439043092, 39.29132167370338)}",75,51,,Center Plaza,BPD Cameras,-76.61647439,39.29132167
+"{type=Point, coordinates=List(-76.61627054205462, 39.288789080801166)}",76,52,,Hopkins Plaza,BPD Cameras,-76.61627054,39.28878908
+"{type=Point, coordinates=List(-76.61514400032377, 39.28952599972365)}",77,53,,Charles-Baltimore,BPD Cameras,-76.615144,39.28952599
+"{type=Point, coordinates=List(-76.61486299969313, 39.2877439998873)}",78,54,,S Charles St-E Lombard St,BPD Cameras,-76.61486299,39.28774399
+"{type=Point, coordinates=List(-76.61397600017442, 39.29116999976101)}",79,55,,Saint Paul St - E Lexington St,BPD Cameras,-76.613976,39.29116999
+"{type=Point, coordinates=List(-76.61371707908704, 39.28882022042248)}",80,56,,Light St-E Redwood St,BPD Cameras,-76.61371707,39.28882022
+"{type=Point, coordinates=List(-76.61244800048664, 39.29038699971777)}",81,57,,N Calvert St - E Fayette St,BPD Cameras,-76.612448,39.29038699
+"{type=Point, coordinates=List(-76.61202499986064, 39.288932999706184)}",82,58,,S Calvert St-E Redwood St,BPD Cameras,-76.61202499,39.28893299
+"{type=Point, coordinates=List(-76.61213500010291, 39.2878249995769)}",83,59,,S Calvert St - E Lombard St,BPD Cameras,-76.612135,39.28782499
+"{type=Point, coordinates=List(-76.61111400049191, 39.291244999636746)}",84,60,,60 - Guilford Ave-E Lexington St,BPD Cameras,-76.611114,39.29124499
+"{type=Point, coordinates=List(-76.61104800019591, 39.289701000002424)}",85,61,,South St - E Baltimore St,BPD Cameras,-76.611048,39.289701
+"{type=Point, coordinates=List(-76.61096100029854, 39.28856599969793)}",86,62,,South St-Water St,BPD Cameras,-76.610961,39.28856599
+"{type=Point, coordinates=List(-76.61035500003752, 39.29249500007101)}",87,63,,N Holliday St - E Saratoga St,BPD Cameras,-76.610355,39.292495
+"{type=Point, coordinates=List(-76.61027599979796, 39.290498000324334)}",88,64,,N Holiday St-E Fayette St,BPD Cameras,-76.61027599,39.290498
+"{type=Point, coordinates=List(-76.61011600011722, 39.28784900041653)}",89,65,,Commerce St - E Lombard St,BPD Cameras,-76.610116,39.287849
+"{type=Point, coordinates=List(-76.61002199967646, 39.286661999780925)}",90,66,,Commerce St - E Pratt St,BPD Cameras,-76.61002199,39.28666199
+"{type=Point, coordinates=List(-76.60975545613246, 39.289210493746374)}",91,67,,Custom House Ave,BPD Cameras,-76.60975545,39.28921049
+"{type=Point, coordinates=List(-76.60894500032391, 39.28977199985925)}",92,68,,S Gay St - E Baltimore St,BPD Cameras,-76.608945,39.28977199
+"{type=Point, coordinates=List(-76.60883200055032, 39.28862399983467)}",93,69,,S Gay St - Water St,BPD Cameras,-76.608832,39.28862399
+"{type=Point, coordinates=List(-76.60782962956023, 39.29137772214226)}",94,70,,E Saratoga St - E Lexington Stb,BPD Cameras,-76.60782962,39.29137772
+"{type=Point, coordinates=List(-76.60694399966101, 39.28790399992519)}",95,71,,Market Pl - E Lombard St,BPD Cameras,-76.60694399,39.28790399
+"{type=Point, coordinates=List(-76.6246479998533, 39.291325000316924)}",96,72,,Pearl St - W Lexington St,BPD Cameras,-76.62464799,39.291325
+"{type=Point, coordinates=List(-76.6239300005464, 39.29377899990577)}",97,73,,N Greene St - W Mulberry St,BPD Cameras,-76.62393,39.29377899
+"{type=Point, coordinates=List(-76.622871458559, 39.29750538325838)}",98,74,,Druid Hill Ave - Saint Mary St,BPD Cameras,-76.62287145,39.29750538
+"{type=Point, coordinates=List(-76.62506282243075, 39.2958219897446)}",99,75,,Pennsylvania Ave -Saint Mary St,BPD Cameras,-76.62506282,39.29582198
+"{type=Point, coordinates=List(-76.62144799974779, 39.297268999964366)}",100,76,,N Eutaw St & W Monument St,BPD Cameras,-76.62144799,39.29726899
+"{type=Point, coordinates=List(-76.61541400056225, 39.29232700012917)}",101,77,,Saratoga-Charles,BPD Cameras,-76.615414,39.292327
+"{type=Point, coordinates=List(-76.5941170001208, 39.293967999837385)}",102,201,,E Fayette St - N Broadway,BPD Cameras,-76.594117,39.29396799
+"{type=Point, coordinates=List(-76.59402900038285, 39.29263200017026)}",103,202,,E Fairmount Ave - N Broadway,BPD Cameras,-76.594029,39.292632
+"{type=Point, coordinates=List(-76.5939439995579, 39.29154199985369)}",104,203,,E Baltimore St - S Broadway,BPD Cameras,-76.59394399,39.29154199
+"{type=Point, coordinates=List(-76.59177700027388, 39.29161599964027)}",105,204,,E Baltimore St - S Ann St,BPD Cameras,-76.591777,39.29161599
+"{type=Point, coordinates=List(-76.58920099962478, 39.29174700016846)}",106,205,,E Baltimore St - S Washington St,BPD Cameras,-76.58920099,39.291747
+"{type=Point, coordinates=List(-76.59386900012537, 39.2903989995938)}",107,206,,E Lombard St - S Broadway,BPD Cameras,-76.593869,39.29039899
+"{type=Point, coordinates=List(-76.59171000025405, 39.290499000044534)}",108,207,,E Lombard St - S Ann St,BPD Cameras,-76.59171,39.290499
+"{type=Point, coordinates=List(-76.5910470005426, 39.290520000215636)}",109,208,,E Lombard St - S Durham St,BPD Cameras,-76.591047,39.29052
+"{type=Point, coordinates=List(-76.58974899973205, 39.290554999928595)}",110,209,,E Lombard St - S Chapel St,BPD Cameras,-76.58974899,39.29055499
+"{type=Point, coordinates=List(-76.58910600045982, 39.29057300000799)}",111,210,,E Lombard St - S Washington St,BPD Cameras,-76.589106,39.290573
+"{type=Point, coordinates=List(-76.59380300054279, 39.28925700012693)}",112,211,,E Pratt St - S Broadway,BPD Cameras,-76.593803,39.289257
+"{type=Point, coordinates=List(-76.5957114105313, 39.2891399134036)}",113,212,,E Pratt St - N Bond St,BPD Cameras,-76.59571141,39.28913991
+"{type=Point, coordinates=List(-76.59370400011935, 39.28762300005415)}",114,213,,Gough St - S Broadway,BPD Cameras,-76.593704,39.287623
+"{type=Point, coordinates=List(-76.59243200052082, 39.287695999808385)}",115,214,,Gough St - S Regester St,BPD Cameras,-76.592432,39.28769599
+"{type=Point, coordinates=List(-76.59363800049287, 39.28660899959403)}",116,215,,Bank St - S Broadway,BPD Cameras,-76.593638,39.28660899
+"{type=Point, coordinates=List(-76.59544000057713, 39.28651200017916)}",117,216,,Bank St - S Bond St,BPD Cameras,-76.59544,39.286512
+"{type=Point, coordinates=List(-76.59355699943549, 39.285577999942035)}",118,218,,Eastern Ave - S Broadway,BPD Cameras,-76.59355699,39.28557799
+"{type=Point, coordinates=List(-76.59140600014639, 39.28568600017445)}",119,219,,Eastern Ave - S Ann St,BPD Cameras,-76.591406,39.285686
+"{type=Point, coordinates=List(-76.59356564263112, 39.28460387438752)}",120,220,,Fleet St - S Broadway,BPD Cameras,-76.59356564,39.28460387
+"{type=Point, coordinates=List(-76.59326000040829, 39.284563999918824)}",121,221,,Fleet St - S Broadway St (East),BPD Cameras,-76.59326,39.28456399
+"{type=Point, coordinates=List(-76.59135300021984, 39.284726000416306)}",122,222,,Fleet St - S Ann St,BPD Cameras,-76.591353,39.284726
+"{type=Point, coordinates=List(-76.59672399947141, 39.284424999803605)}",123,223,,Fleet St - S Caroline St,BPD Cameras,-76.59672399,39.28442499
+"{type=Point, coordinates=List(-76.59824499947726, 39.28434600034706)}",124,224,,Fleet St - S Eden St,BPD Cameras,-76.59824499,39.284346
+"{type=Point, coordinates=List(-76.59318476842549, 39.28353469565279)}",125,225,,S Broadway - Aliceanna St(East),BPD Cameras,-76.59318476,39.28353469
+"{type=Point, coordinates=List(-76.5931249996754, 39.281841000319154)}",126,227,,Thames St - S Broadway,BPD Cameras,-76.59312499,39.281841
+"{type=Point, coordinates=List(-76.63140490746974, 39.250543060837046)}",127,307,,Behind Bldg 1200,BPD Cameras,-76.6314049,39.25054306
+"{type=Point, coordinates=List(-76.63222458264119, 39.25093656168336)}",128,302,,Back of 1312 Shellbanks,BPD Cameras,-76.63222458,39.25093656
+"{type=Point, coordinates=List(-76.63186599967474, 39.25048400007525)}",129,305,,Shellbanks Rd - Blyden Rd,BPD Cameras,-76.63186599,39.250484
+"{type=Point, coordinates=List(-76.63301000014577, 39.250116000448315)}",130,303,,Berea Rd - Slater Rd,BPD Cameras,-76.63301,39.250116
+"{type=Point, coordinates=List(-76.63199614765303, 39.2490108628866)}",131,308,,Fisk Rd - Slater Rd,BPD Cameras,-76.63199614,39.24901086
+"{type=Point, coordinates=List(-76.63219881859881, 39.24875487035856)}",132,309,,Behind 1201 Slater Rd,BPD Cameras,-76.63219881,39.24875487
+"{type=Point, coordinates=List(-76.63295086108857, 39.24962970161925)}",133,306,,Back of 1301 Slater Rd.,BPD Cameras,-76.63295086,39.2496297
+"{type=Point, coordinates=List(-76.63034600041244, 39.24972100037016)}",134,310,,Giles Rd - Shellbanks Rd,BPD Cameras,-76.630346,39.249721
+"{type=Point, coordinates=List(-76.62997849570012, 39.24942904893386)}",135,311,,Rear of 2701 Giles-Shellbanks,BPD Cameras,-76.62997849,39.24942904
+"{type=Point, coordinates=List(-76.62926600015311, 39.24857899994935)}",136,313,,Spelman Rd - Woodview Rd,BPD Cameras,-76.629266,39.24857899
+"{type=Point, coordinates=List(-76.62851700034564, 39.248612000292695)}",137,314,,Woodview Rd - Round Rd,BPD Cameras,-76.628517,39.248612
+"{type=Point, coordinates=List(-76.63083100030055, 39.24839799971682)}",138,312,,Sethlow Rd - Slater Rd,BPD Cameras,-76.630831,39.24839799
+"{type=Point, coordinates=List(-76.62975668842311, 39.248153355321335)}",139,315,,Rear of Comm Ctr.,BPD Cameras,-76.62975668,39.24815335
+"{type=Point, coordinates=List(-76.63008024453123, 39.247154622615895)}",140,316,,Behind Community Center 1039,BPD Cameras,-76.63008024,39.24715462
+"{type=Point, coordinates=List(-76.62880200020093, 39.24704900010902)}",141,317,,Spelman Rd - Claflin Ct,BPD Cameras,-76.628802,39.247049
+"{type=Point, coordinates=List(-76.62841466033393, 39.245863552013255)}",142,319,,Spelman Rd - S Denham Cir,BPD Cameras,-76.62841466,39.24586355
+"{type=Point, coordinates=List(-76.62769833072068, 39.24641109430744)}",143,318,,2822 Round Rd.,BPD Cameras,-76.62769833,39.24641109
+"{type=Point, coordinates=List(-76.62854699962271, 39.244608000272585)}",144,322,,2824 N Denham Cir,BPD Cameras,-76.62854699,39.244608
+"{type=Point, coordinates=List(-76.62879377562761, 39.244515153735016)}",145,321,,Rear of 2822 Denham,BPD Cameras,-76.62879377,39.24451515
+"{type=Point, coordinates=List(-76.62797972577137, 39.24487036155527)}",146,323,,Off 2820 Spellman,BPD Cameras,-76.62797972,39.24487036
+"{type=Point, coordinates=List(-76.62751572274794, 39.24516063391035)}",147,324,,Bridgeview Rd - Spelman Rd,BPD Cameras,-76.62751572,39.24516063
+"{type=Point, coordinates=List(-76.62584999981136, 39.24491399978208)}",148,327,,3301 Round Rd.,BPD Cameras,-76.62584999,39.24491399
+"{type=Point, coordinates=List(-76.62650721336546, 39.244294658332706)}",149,326,,Side of 2901 Denham Cir.,BPD Cameras,-76.62650721,39.24429465
+"{type=Point, coordinates=List(-76.62606900040963, 39.243617999924396)}",150,333,,Bethune Rd - Spelman Rd,BPD Cameras,-76.626069,39.24361799
+"{type=Point, coordinates=List(-76.6332947550482, 39.25065259322859)}",151,301,,Behind 2708 Berea Rd.,BPD Cameras,-76.63329475,39.25065259
+"{type=Point, coordinates=List(-76.63275599957, 39.250271999625745)}",152,304,,Behind 2711 Berea Rd.,BPD Cameras,-76.63275599,39.25027199
+"{type=Point, coordinates=List(-76.6308604180806, 39.24823955573434)}",153,352,,Maint. Backyard 1,BPD Cameras,-76.63086041,39.24823955
+"{type=Point, coordinates=List(-76.63066461750542, 39.24800899398512)}",154,353,,Maint Backyard 2,BPD Cameras,-76.63066461,39.24800899
+"{type=Point, coordinates=List(-76.63104414928482, 39.247959142449)}",155,355,,Maint. Garage Doors,BPD Cameras,-76.63104414,39.24795914
+"{type=Point, coordinates=List(-76.62969231567436, 39.24849608189013)}",156,354,,Back of Comm. Ctr.,BPD Cameras,-76.62969231,39.24849608
+"{type=Point, coordinates=List(-76.63052111883935, 39.2481118122026)}",157,356,,Back of Comm. Ctr. 2,BPD Cameras,-76.63052111,39.24811181
+"{type=Point, coordinates=List(-76.62498599967618, 39.24502800015976)}",158,328,,Behind 911 Coppin Court,BPD Cameras,-76.62498599,39.245028
+"{type=Point, coordinates=List(-76.62781829876963, 39.243937304638784)}",159,325,,Rear of 2917 S Denham Cir.,BPD Cameras,-76.62781829,39.2439373
+"{type=Point, coordinates=List(-76.62567800037675, 39.242839000441805)}",160,335,,3430 Spelman Rd,BPD Cameras,-76.625678,39.242839
+"{type=Point, coordinates=List(-76.62528300012902, 39.242624999585125)}",161,336,,3456 Spelman Rd,BPD Cameras,-76.625283,39.24262499
+"{type=Point, coordinates=List(-76.62550299947956, 39.242225000349606)}",162,337,,3446 Spelman Rd(Parking Lot),BPD Cameras,-76.62550299,39.242225
+"{type=Point, coordinates=List(-76.62395507042488, 39.242505389778515)}",163,338,,Spellman Rd. LLC#7076,BPD Cameras,-76.62395507,39.24250538
+"{type=Point, coordinates=List(-76.62401981812296, 39.24204446306909)}",164,339,,3486 Spelman Rd.,BPD Cameras,-76.62401981,39.24204446
+"{type=Point, coordinates=List(-76.62459671842672, 39.24395149780052)}",165,332,,3401 Round Rd.,BPD Cameras,-76.62459671,39.24395149
+"{type=Point, coordinates=List(-76.62380166898515, 39.24413016194079)}",166,331,,Rear of 3411 Round Rd.,BPD Cameras,-76.62380166,39.24413016
+"{type=Point, coordinates=List(-76.62277499966766, 39.24330000043219)}",167,341,,Seagull Ave. LLC#7076,BPD Cameras,-76.62277499,39.2433
+"{type=Point, coordinates=List(-76.62229478457203, 39.242914617636494)}",168,340,,Seagull Ave. behind UMBC,BPD Cameras,-76.62229478,39.24291461
+"{type=Point, coordinates=List(-76.62087599998148, 39.24525699993634)}",169,344,,Seagull Ave - Bethune Rd,BPD Cameras,-76.62087599,39.24525699
+"{type=Point, coordinates=List(-76.62116100049714, 39.2447829998452)}",170,343,,835 Seagull Ave.,BPD Cameras,-76.621161,39.24478299
+"{type=Point, coordinates=List(-76.62079542878799, 39.2445016516922)}",171,342,,Behind 835 Seagull Ave,BPD Cameras,-76.62079542,39.24450165
+"{type=Point, coordinates=List(-76.6238260000613, 39.2450609999649)}",172,330,,Bethune Rd - Bunche Rd,BPD Cameras,-76.623826,39.24506099
+"{type=Point, coordinates=List(-76.62434299944988, 39.24541099990225)}",173,329,,Coppin Ct - Bunche Rd .,BPD Cameras,-76.62434299,39.24541099
+"{type=Point, coordinates=List(-76.62625599968621, 39.247835999771084)}",174,348,,2627 Carver Rd,BPD Cameras,-76.62625599,39.24783599
+"{type=Point, coordinates=List(-76.62539999946088, 39.246813000118195)}",175,346,,Carver Rd - Bridgeview Rd,BPD Cameras,-76.62539999,39.246813
+"{type=Point, coordinates=List(-76.62563600028605, 39.247805999669936)}",176,347,,Rear of 2805 Carver Rd.,BPD Cameras,-76.625636,39.24780599
+"{type=Point, coordinates=List(-76.62582199948761, 39.248641999653856)}",177,349,,2609 Carver Rd.,BPD Cameras,-76.62582199,39.24864199
+"{type=Point, coordinates=List(-76.62532200028838, 39.2484500002096)}",178,350,,2615 Carver Rd. (in circle),BPD Cameras,-76.625322,39.24845
+"{type=Point, coordinates=List(-76.62912223817527, 39.24541761166086)}",179,320,,Side of 2810 Denham Cr.,BPD Cameras,-76.62912223,39.24541761
+"{type=Point, coordinates=List(-76.62468329116662, 39.24636595543014)}",180,345,,Carver Rd. Front of School,BPD Cameras,-76.62468329,39.24636595
+"{type=Point, coordinates=List(-76.62679199990927, 39.242727999606075)}",181,334,,Back Circle 1019 Bethune Rd.,BPD Cameras,-76.62679199,39.24272799
+"{type=Point, coordinates=List(-76.55580999982925, 39.28705000030834)}",182,402,,Eastern Ave - Oldham St,BPD Cameras,-76.55580999,39.28705
+"{type=Point, coordinates=List(-76.5580529995371, 39.28714199977373)}",183,403,,Eastern Ave - S Lehigh St,BPD Cameras,-76.55805299,39.28714199
+"{type=Point, coordinates=List(-76.55659199974906, 39.28703399989268)}",184,404,,Eastern Ave - S Newkirk St,BPD Cameras,-76.55659199,39.28703399
+"{type=Point, coordinates=List(-76.60946388864431, 39.318147222248705)}",185,509,,Greenmount Ave - E 25th St,BPD Cameras,-76.60946388,39.31814722
+"{type=Point, coordinates=List(-76.61216944366915, 39.31806111093442)}",186,508,,Falls St Alley - E 25th St,BPD Cameras,-76.61216944,39.31806111
+"{type=Point, coordinates=List(-76.60876944373977, 39.316588889051346)}",187,510,,Boone St - E 24th St,BPD Cameras,-76.60876944,39.31658888
+"{type=Point, coordinates=List(-76.61042777807577, 39.31625833333014)}",188,512,,Brentwood Ave - E 24th St,BPD Cameras,-76.61042777,39.31625833
+"{type=Point, coordinates=List(-76.61315555641114, 39.32208055605459)}",189,501,,Guilford Ave - E 28th St,BPD Cameras,-76.61315555,39.32208055
+"{type=Point, coordinates=List(-76.60744444394358, 39.31603611101881)}",190,511,,Cokesbury Ave - E 23rd St,BPD Cameras,-76.60744444,39.31603611
+"{type=Point, coordinates=List(-76.60952500034412, 39.3154916669478)}",191,513,,Greenmount Ave - E 23rd St,BPD Cameras,-76.609525,39.31549166
+"{type=Point, coordinates=List(-76.60820277802853, 39.31543888857741)}",192,515,,23rd ST. - Boone,BPD Cameras,-76.60820277,39.31543888
+"{type=Point, coordinates=List(-76.61271666744858, 39.3154249995925)}",193,514,,Guilford Ave - E 23rd St,BPD Cameras,-76.61271666,39.31542499
+"{type=Point, coordinates=List(-76.60955555559958, 39.314508333063365)}",194,516,,Greenmount Ave - E 22nd St,BPD Cameras,-76.60955555,39.31450833
+"{type=Point, coordinates=List(-76.60732222219858, 39.314627778218046)}",195,517,,Homewood Ave - E 22nd St,BPD Cameras,-76.60732222,39.31462777
+"{type=Point, coordinates=List(-76.60845277757721, 39.31353888931797)}",196,520,,Boone St - E 21st St,BPD Cameras,-76.60845277,39.31353888
+"{type=Point, coordinates=List(-76.60953611137165, 39.31273611097298)}",197,521,,Greenmount Ave - Worsley St,BPD Cameras,-76.60953611,39.31273611
+"{type=Point, coordinates=List(-76.6110527782617, 39.31243333310744)}",198,522,,Barclay St - E 20th St,BPD Cameras,-76.61105277,39.31243333
+"{type=Point, coordinates=List(-76.60953333311252, 39.32001111134366)}",199,506,,Greenmount Ave - E Lorraine Ave,BPD Cameras,-76.60953333,39.32001111
+"{type=Point, coordinates=List(-76.61103055577628, 39.31201666706642)}",200,523,,Barclay St - Heaver St,BPD Cameras,-76.61103055,39.31201666
+"{type=Point, coordinates=List(-76.6118083331502, 39.3113055560125)}",201,525,,E North Ave - Guilford Ave,BPD Cameras,-76.61180833,39.31130555
+"{type=Point, coordinates=List(-76.6095083327694, 39.3221500002626)}",202,502,,Greenmount Ave - E 28th St,BPD Cameras,-76.60950833,39.32215
+"{type=Point, coordinates=List(-76.61363055551874, 39.31057777808282)}",203,526,,N Calvert St - McAllister St,BPD Cameras,-76.61363055,39.31057777
+"{type=Point, coordinates=List(-76.61089166674402, 39.310033333186055)}",204,528,,Barclay St - E Lafayette Ave,BPD Cameras,-76.61089166,39.31003333
+"{type=Point, coordinates=List(-76.61238055551523, 39.31009166681988)}",205,527,,Guilford Ave - E Lafayette Ave,BPD Cameras,-76.61238055,39.31009166
+"{type=Point, coordinates=List(-76.61295277756716, 39.31951944409481)}",206,507,,Guilford Ave - E 26th St,BPD Cameras,-76.61295277,39.31951944
+"{type=Point, coordinates=List(-76.61075000013568, 39.30846388935606)}",207,529,,Barclay St - Pitman Pl,BPD Cameras,-76.61075,39.30846388
+"{type=Point, coordinates=List(-76.60819999948933, 39.30483888917163)}",208,530,,Greenmount Ave - E Preston St,BPD Cameras,-76.60819999,39.30483888
+"{type=Point, coordinates=List(-76.6079305560139, 39.303783333436144)}",209,531,,Greenmount Ave - E Biddle St,BPD Cameras,-76.60793055,39.30378333
+"{type=Point, coordinates=List(-76.609533332536, 39.320922221923695)}",210,503,,Greenmount-27th,BPD Cameras,-76.60953333,39.32092222
+"{type=Point, coordinates=List(-76.61114722159486, 39.32088055614318)}",211,504,,Barclay St - E 27th St,BPD Cameras,-76.61114722,39.32088055
+"{type=Point, coordinates=List(-76.61260555542326, 39.31339722194636)}",212,519,,Guilford Ave - E 21st St,BPD Cameras,-76.61260555,39.31339722
+"{type=Point, coordinates=List(-76.60764166679922, 39.302733333409535)}",213,532,,Greenmount Ave - E Chase St,BPD Cameras,-76.60764166,39.30273333
+"{type=Point, coordinates=List(-76.60726944444734, 39.301361110554815)}",214,533,,Greenmount Ave - E Eager St,BPD Cameras,-76.60726944,39.30136111
+"{type=Point, coordinates=List(-76.60961944352789, 39.311216666745224)}",215,524,,Greenmount - E North Ave,BPD Cameras,-76.60961944,39.31121666
+"{type=Point, coordinates=List(-76.61115833318972, 39.321522221735016)}",216,505,,Barclay St - Whitridge Ave,BPD Cameras,-76.61115833,39.32152222
+"{type=Point, coordinates=List(-76.55732700009702, 39.287016000331086)}",217,401,,Eastern Ave - S Macon St,BPD Cameras,-76.557327,39.287016
+"{type=Point, coordinates=List(-76.58786899976982, 39.298647000073274)}",218,601,,E Monument St - N Chester St,BPD Cameras,-76.58786899,39.298647
+"{type=Point, coordinates=List(-76.58714979878015, 39.297607090724256)}",219,602,,McElderry St - N Duncan St,BPD Cameras,-76.58714979,39.29760709
+"{type=Point, coordinates=List(-76.58599108448769, 39.299697261669834)}",220,604,,E Madison St - N Mederia St,BPD Cameras,-76.58599108,39.29969726
+"{type=Point, coordinates=List(-76.58499330301554, 39.29866982736016)}",221,605,,E Monument St - N Patterson Park Ave,BPD Cameras,-76.5849933,39.29866982
+"{type=Point, coordinates=List(-76.5842986106816, 39.29762162073451)}",222,606,,McElderry St - N Bradford St,BPD Cameras,-76.58429861,39.29762162
+"{type=Point, coordinates=List(-76.58372099972317, 39.29880699956364)}",223,607,,E Monument St - N Montford Ave,BPD Cameras,-76.58372099,39.29880699
+"{type=Point, coordinates=List(-76.5830809995347, 39.299893000111716)}",224,608,,E Madison -N Port,BPD Cameras,-76.58308099,39.299893
+"{type=Point, coordinates=List(-76.582319000546, 39.298861000119444)}",225,609,,E Monument St - N Milton Ave,BPD Cameras,-76.582319,39.298861
+"{type=Point, coordinates=List(-76.5814688801763, 39.29781050718433)}",226,610,,McElderry St - N Rose St,BPD Cameras,-76.58146888,39.2978105
+"{type=Point, coordinates=List(-76.5809050002332, 39.29891499969387)}",227,611,,E Monument St - N Luzerne Ave,BPD Cameras,-76.580905,39.29891499
+"{type=Point, coordinates=List(-76.58026300055423, 39.2999970001303)}",228,612,,E Madison St - N Glover St,BPD Cameras,-76.580263,39.299997
+"{type=Point, coordinates=List(-76.57949300019817, 39.29896599979731)}",229,613,,E Monument St - N Lakewood Ave,BPD Cameras,-76.579493,39.29896599
+"{type=Point, coordinates=List(-76.5786311025256, 39.297950614217925)}",230,614,,McElderry St - N Belnord Ave,BPD Cameras,-76.5786311,39.29795061
+"{type=Point, coordinates=List(-76.57808500048887, 39.299028999919685)}",231,615,,E Monument St - N Kenwood Ave,BPD Cameras,-76.578085,39.29902899
+"{type=Point, coordinates=List(-76.57743699968589, 39.300113000100986)}",232,616,,E Madison St - N Streeper St,BPD Cameras,-76.57743699,39.300113
+"{type=Point, coordinates=List(-76.57646656046089, 39.297907025198455)}",233,617,,McElderry St - N Linwood Ave,BPD Cameras,-76.57646656,39.29790702
+"{type=Point, coordinates=List(-76.57596200026104, 39.29911200039564)}",234,618,,E Monument St - N Curley St,BPD Cameras,-76.575962,39.299112
+"{type=Point, coordinates=List(-76.57506644702904, 39.298065813313585)}",235,619,,McElderry St - N Potomac St,BPD Cameras,-76.57506644,39.29806581
+"{type=Point, coordinates=List(-76.57441735348365, 39.29909325717797)}",236,620,,E Monument - Decker,BPD Cameras,-76.57441735,39.29909325
+"{type=Point, coordinates=List(-76.57390800040454, 39.300243000199266)}",237,621,,E Madison St - N Ellwood Ave,BPD Cameras,-76.573908,39.300243
+"{type=Point, coordinates=List(-76.57312100056225, 39.299224999555655)}",238,622,,E Monument St - N Robinson St,BPD Cameras,-76.573121,39.29922499
+"{type=Point, coordinates=List(-76.57604000039647, 39.30015100036809)}",239,623,,E Madison St - N Curley St,BPD Cameras,-76.57604,39.300151
+"{type=Point, coordinates=List(-76.57308697749897, 39.298040905000356)}",240,624,,McElderry St - N Robinson St,BPD Cameras,-76.57308697,39.2980409
+"{type=Point, coordinates=List(-76.65807099972936, 39.307524000246694)}",241,701,,Thomas Ave - Presbury St,BPD Cameras,-76.65807099,39.307524
+"{type=Point, coordinates=List(-76.65811499945944, 39.30843200037786)}",242,701,,Thomas Ave - Westwood Ave,BPD Cameras,-76.65811499,39.308432
+"{type=Point, coordinates=List(-76.65818000051125, 39.309430999558636)}",243,703,,W North Ave - Thomas Ave,BPD Cameras,-76.65818,39.30943099
+"{type=Point, coordinates=List(-76.65715400056126, 39.30848899966527)}",244,704,,N Warwick Ave - Westwood Ave,BPD Cameras,-76.657154,39.30848899
+"{type=Point, coordinates=List(-76.65591200051925, 39.30851399983275)}",245,705,,Moreland Ave - Westwood Ave,BPD Cameras,-76.655912,39.30851399
+"{type=Point, coordinates=List(-76.65599399985922, 39.3095080004389)}",246,706,,W North Ave - Moreland Ave,BPD Cameras,-76.65599399,39.309508
+"{type=Point, coordinates=List(-76.65407099946724, 39.30859799975051)}",247,707,,N Bentalou St - Westwood Ave,BPD Cameras,-76.65407099,39.30859799
+"{type=Point, coordinates=List(-76.65266599960938, 39.30866600015264)}",248,708,,N Smallwood St - Westwood Ave,BPD Cameras,-76.65266599,39.308666
+"{type=Point, coordinates=List(-76.65271199970661, 39.3096129999102)}",249,709,,W North Ave - N Smallwood St,BPD Cameras,-76.65271199,39.30961299
+"{type=Point, coordinates=List(-76.65280400039926, 39.31124500020305)}",250,710,,N Smallwood St - Ridgehill Ave,BPD Cameras,-76.652804,39.311245
+"{type=Point, coordinates=List(-76.65125899995842, 39.30869399968456)}",251,711,,N Pulaski St - Westwood Ave,BPD Cameras,-76.65125899,39.30869399
+"{type=Point, coordinates=List(-76.65133900019057, 39.30967999995533)}",252,712,,W North Ave - N Pulaski St,BPD Cameras,-76.651339,39.30967999
+"{type=Point, coordinates=List(-76.65137600033718, 39.31021899972336)}",253,713,,N Pulaski St - Herbert St,BPD Cameras,-76.651376,39.31021899
+"{type=Point, coordinates=List(-76.65139699965172, 39.310762999743034)}",254,714,,N Pulaski St - Walbrook Ave,BPD Cameras,-76.65139699,39.31076299
+"{type=Point, coordinates=List(-76.64992099985888, 39.30973000041845)}",255,715,,W North Ave - N Payson St,BPD Cameras,-76.64992099,39.30973
+"{type=Point, coordinates=List(-76.64995500052332, 39.31039200036821)}",256,716,,N Payson St - Herbert St,BPD Cameras,-76.649955,39.310392
+"{type=Point, coordinates=List(-76.64998800026747, 39.310830999587075)}",257,717,,N Payson St - Walbrook Ave,BPD Cameras,-76.649988,39.31083099
+"{type=Point, coordinates=List(-76.65001100023906, 39.31157999996482)}",258,718,,N Payson St - Ridgehill Ave,BPD Cameras,-76.650011,39.31157999
+"{type=Point, coordinates=List(-76.64899599969422, 39.308784999822244)}",259,719,,Appleton St - Westwood Ave,BPD Cameras,-76.64899599,39.30878499
+"{type=Point, coordinates=List(-76.64812400037303, 39.308811999644945)}",260,720,,N Monroe St - Westwood Ave,BPD Cameras,-76.648124,39.30881199
+"{type=Point, coordinates=List(-76.64817999959062, 39.30981299989165)}",261,721,,W North Ave - N Monroe St,BPD Cameras,-76.64817999,39.30981299
+"{type=Point, coordinates=List(-76.64823699968116, 39.31088299957972)}",262,722,,N Monroe St - Walbrook Ave,BPD Cameras,-76.64823699,39.31088299
+"{type=Point, coordinates=List(-76.64645900027314, 39.308852999929194)}",263,723,,N Fulton Ave - Westwood Ave,BPD Cameras,-76.646459,39.30885299
+"{type=Point, coordinates=List(-76.64651799944635, 39.309888999816074)}",264,724,,W North Ave - N Fulton Ave,BPD Cameras,-76.64651799,39.30988899
+"{type=Point, coordinates=List(-76.64663314794892, 39.310847589039085)}",265,725,,N Fulton Ave - Walbrook Ave,BPD Cameras,-76.64663314,39.31084758
+"{type=Point, coordinates=List(-76.64494599980563, 39.30889300019384)}",266,726,,N Mount St - Westwood Ave,BPD Cameras,-76.64494599,39.308893
+"{type=Point, coordinates=List(-76.6437199999716, 39.3100240002384)}",267,727,,W North Ave - N Carey St,BPD Cameras,-76.64371999,39.310024
+"{type=Point, coordinates=List(-76.64239257632293, 39.30989087933435)}",268,728,,W North Ave - Pennsylvania Ave,BPD Cameras,-76.64239257,39.30989087
+"{type=Point, coordinates=List(-76.64348888858527, 39.30803099962483)}",269,729,,Cumberland St  &  N Calhoun St,BPD Cameras,-76.64348888,39.30803099
+"{type=Point, coordinates=List(-76.64162546431726, 39.30921121164034)}",270,730,,Cumberland St - Pennsylvania Ave,BPD Cameras,-76.64162546,39.30921121
+"{type=Point, coordinates=List(-76.640911999535, 39.310152999966604)}",271,731,,W North Ave - Division St,BPD Cameras,-76.64091199,39.31015299
+"{type=Point, coordinates=List(-76.64120999963099, 39.31051499975306)}",272,732,,Whitelock St - Woodbrook Ave,BPD Cameras,-76.64120999,39.31051499
+"{type=Point, coordinates=List(-76.64070400044619, 39.310861000405325)}",273,733,,Ettiing St - Whitelock St,BPD Cameras,-76.640704,39.310861
+"{type=Point, coordinates=List(-76.64014099964483, 39.31118499996423)}",274,734,,Whitelock St - Francis St,BPD Cameras,-76.64014099,39.31118499
+"{type=Point, coordinates=List(-76.63929596463005, 39.3115604435902)}",275,735,,Druid Hill Ave - Whitelock St,BPD Cameras,-76.63929596,39.31156044
+"{type=Point, coordinates=List(-76.63698599945785, 39.31031900011585)}",276,742,,W North Ave - McCulloh St,BPD Cameras,-76.63698599,39.310319
+"{type=Point, coordinates=List(-76.66312200053221, 39.33266999961111)}",277,801,,Reisterstown Rd - Keyworth Ave,BPD Cameras,-76.663122,39.33266999
+"{type=Point, coordinates=List(-76.66403099946815, 39.3338730004297)}",278,802,,Reisterstown Rd - Shirley Ave,BPD Cameras,-76.66403099,39.333873
+"{type=Point, coordinates=List(-76.66598930993612, 39.334465471114434)}",279,803,,Towonda Ave - Oswego Ave,BPD Cameras,-76.6659893,39.33446547
+"{type=Point, coordinates=List(-76.66688400050529, 39.33757100013832)}",280,804,,Reisterstown Rd - Grantley Ave,BPD Cameras,-76.666884,39.337571
+"{type=Point, coordinates=List(-76.66947599951142, 39.33727299991111)}",281,805,,Boarman Ave - Willowdale Ave,BPD Cameras,-76.66947599,39.33727299
+"{type=Point, coordinates=List(-76.67358264260564, 39.347399274366666)}",282,806,,Park Heights Ave - W Garrison Ave,BPD Cameras,-76.67358264,39.34739927
+"{type=Point, coordinates=List(-76.66840600018145, 39.3394450002735)}",283,807,,Reisterstown Rd - Laporte St,BPD Cameras,-76.668406,39.339445
+"{type=Point, coordinates=List(-76.67148515649832, 39.3402730132851)}",284,808,,Reisterstown Rd - St Ambrose Ave,BPD Cameras,-76.67148515,39.34027301
+"{type=Point, coordinates=List(-76.68028099964353, 39.34630499999904)}",285,809,,W Belvedere Ave - Litchfield Ave,BPD Cameras,-76.68028099,39.34630499
+"{type=Point, coordinates=List(-76.67140000018317, 39.345194999602995)}",286,810,,Park Heights Ave - Woodland,BPD Cameras,-76.6714,39.34519499
+"{type=Point, coordinates=List(-76.67480099993155, 39.346728000241306)}",287,811,,W Garrison Ave - Denmore Ave,BPD Cameras,-76.67480099,39.346728
+"{type=Point, coordinates=List(-76.67238699977906, 39.348089000335904)}",288,812,,W Garrison Ave - Palmer Ave,BPD Cameras,-76.67238699,39.348089
+"{type=Point, coordinates=List(-76.66671399946037, 39.34239699955668)}",289,813,,Pimlico Rd - Sumter Ave,BPD Cameras,-76.66671399,39.34239699
+"{type=Point, coordinates=List(-76.66510552209976, 39.340200408888144)}",290,814,,Pimlico Rd - W Cold Spring Ln,BPD Cameras,-76.66510552,39.3402004
+"{type=Point, coordinates=List(-76.66293299985722, 39.33741699960547)}",291,815,,Quantico Ave - Pimlico Rd,BPD Cameras,-76.66293299,39.33741699
+"{type=Point, coordinates=List(-76.66361957847303, 39.338539825255346)}",292,816,,Pimlico Rd - Loyola Northway,BPD Cameras,-76.66361957,39.33853982
+"{type=Point, coordinates=List(-76.66397399978881, 39.33899899993484)}",293,817,,Pimlico Rd - Rosewood Ave,BPD Cameras,-76.66397399,39.33899899
+"{type=Point, coordinates=List(-76.67768240026321, 39.3528728601102)}",294,818,,Winner Ave - Avondale Ave,BPD Cameras,-76.6776824,39.35287286
+"{type=Point, coordinates=List(-76.67887330102118, 39.35000441356437)}",295,819,,Park Heights Ave - Hayward Ave,BPD Cameras,-76.6788733,39.35000441
+"{type=Point, coordinates=List(-76.68332308452771, 39.35185450302924)}",296,820,,Park Heights-Rogers,BPD Cameras,-76.68332308,39.3518545
+"{type=Point, coordinates=List(-76.68523684137287, 39.35301493088311)}",297,821,,Park Heights Ave - Manhattan Ave,BPD Cameras,-76.68523684,39.35301493
+"{type=Point, coordinates=List(-76.68816715458922, 39.355662377977374)}",298,822,,Park Heights Ave - Glen Ave,BPD Cameras,-76.68816715,39.35566237
+"{type=Point, coordinates=List(-76.6912235325089, 39.35740447444295)}",299,823,,Park Heights Ave - Taney,BPD Cameras,-76.69122353,39.35740447
+"{type=Point, coordinates=List(-76.69390171759424, 39.35877634425389)}",300,824,,Park Heights Ave - W Strathmore Ave,BPD Cameras,-76.69390171,39.35877634
+"{type=Point, coordinates=List(-76.69657185649744, 39.36016166681906)}",301,825,,Park Heights Ave - Fords Ln.,BPD Cameras,-76.69657185,39.36016166
+"{type=Point, coordinates=List(-76.69965907844293, 39.36236195187635)}",302,826,,Park Heights Ave - Clarks Ln.,BPD Cameras,-76.69965907,39.36236195
+"{type=Point, coordinates=List(-76.70281872209704, 39.364946834022376)}",303,827,,Park Heights Ave - Fallstaff Rd,BPD Cameras,-76.70281872,39.36494683
+"{type=Point, coordinates=List(-76.67585045099956, 39.348869861660745)}",304,828,,Park Heights Ave - W Belvedere Ave,BPD Cameras,-76.67585045,39.34886986
+"{type=Point, coordinates=List(-76.67046993958415, 39.344110560252965)}",305,829,,Park Heights Ave - Virginia Ave,BPD Cameras,-76.67046993,39.34411056
+"{type=Point, coordinates=List(-76.66756913151808, 39.341017721231566)}",306,830,,Park Heights Ave - Wiley Ave,BPD Cameras,-76.66756913,39.34101772
+"{type=Point, coordinates=List(-76.66328000028687, 39.33563000013025)}",307,831,,Park Heights Ave - Oswego Ave,BPD Cameras,-76.66328,39.33563
+"{type=Point, coordinates=List(-76.68628424394461, 39.35389535138531)}",308,832,,Park Heights Ave - Trainor Ave(JCC),BPD Cameras,-76.68628424,39.35389535
+"{type=Point, coordinates=List(-76.68757438747254, 39.354996637303124)}",309,833,,Park Heights Ave - Trainor Ave,BPD Cameras,-76.68757438,39.35499663
+"{type=Point, coordinates=List(-76.68969467277236, 39.35644425284856)}",310,834,,Park Heights Ave - Menlo Dr,BPD Cameras,-76.68969467,39.35644425
+"{type=Point, coordinates=List(-76.69277787180538, 39.3581842560258)}",311,835,,Park Heights Ave - Pinkney Rd,BPD Cameras,-76.69277787,39.35818425
+"{type=Point, coordinates=List(-76.69433355317699, 39.35900135765451)}",312,836,,Park Heights Ave - W Strathmore Ave,BPD Cameras,-76.69433355,39.35900135
+"{type=Point, coordinates=List(-76.69784992887001, 39.360900978921535)}",313,837,,Park Heights Ave - Bancroft Rd,BPD Cameras,-76.69784992,39.36090097
+"{type=Point, coordinates=List(-76.69887989751714, 39.36173878687584)}",314,838,,Park Heights Ave - N.Bancroft Rd,BPD Cameras,-76.69887989,39.36173878
+"{type=Point, coordinates=List(-76.5549809996154, 39.28710200024533)}",315,405,,Eastern Ave - S Ponca St,BPD Cameras,-76.55498099,39.287102
+"{type=Point, coordinates=List(-76.67114000002017, 39.30896499999892)}",316,901,,W North Ave - Bloomingdale Rd,BPD Cameras,-76.67114,39.30896499
+"{type=Point, coordinates=List(-76.66933799960425, 39.3090020001458)}",317,902,,W North Ave - N Rosedale St - 1.1.9.2,BPD Cameras,-76.66933799,39.309002
+"{type=Point, coordinates=List(-76.66756300054163, 39.3090790001443)}",318,903,,W North Ave - N Longwood St,BPD Cameras,-76.667563,39.309079
+"{type=Point, coordinates=List(-76.66566878594904, 39.309231964910595)}",319,904,,North Ave - Poplar Grove St,BPD Cameras,-76.66566878,39.30923196
+"{type=Point, coordinates=List(-76.66403199990624, 39.30921200001954)}",320,905,,W North Ave - N Dukeland St,BPD Cameras,-76.66403199,39.309212
+"{type=Point, coordinates=List(-76.66115500022657, 39.309310999985705)}",321,906,,W North Ave - Braddish Ave,BPD Cameras,-76.661155,39.30931099
+"{type=Point, coordinates=List(-76.66477024547045, 39.30817769118205)}",322,907,,Westwood Ave (Dead End),BPD Cameras,-76.66477024,39.30817769
+"{type=Point, coordinates=List(-76.6691790003141, 39.30647799999845)}",323,908,,N Rosedale St - Grayson St,BPD Cameras,-76.669179,39.30647799
+"{type=Point, coordinates=List(-76.66556820265278, 39.307158682762385)}",324,909,,Poplar Grove St - Presbury St,BPD Cameras,-76.6655682,39.30715868
+"{type=Point, coordinates=List(-76.6638250003687, 39.306043000036844)}",325,910,,Baker St - N Dukeland St,BPD Cameras,-76.663825,39.306043
+"{type=Point, coordinates=List(-76.6670049996289, 39.30524199983688)}",326,911,,Bloomingdale Rd - Brighton St,BPD Cameras,-76.66700499,39.30524199
+"{type=Point, coordinates=List(-76.66559234348745, 39.30466090819334)}",327,912,,Poplar Grove St - Pressman St,BPD Cameras,-76.66559234,39.3046609
+"{type=Point, coordinates=List(-76.66616901808761, 39.30353703487829)}",328,913,,Blooomingdale Rd - Belmont Ave,BPD Cameras,-76.66616901,39.30353703
+"{type=Point, coordinates=List(-76.66897800005985, 39.30295800000566)}",329,914,,N Rosedale St - Normount Ct,BPD Cameras,-76.668978,39.302958
+"{type=Point, coordinates=List(-76.66734200040692, 39.30131600030427)}",330,915,,Winchester St - N Longwood St,BPD Cameras,-76.667342,39.301316
+"{type=Point, coordinates=List(-76.6656513513203, 39.302175495634344)}",331,916,,Bloomingdale Rd - Ellicott Driveway,BPD Cameras,-76.66565135,39.30217549
+"{type=Point, coordinates=List(-76.6635270418254, 39.30243390033242)}",332,917,,Ellicott Driveway - N Dukeland St,BPD Cameras,-76.66352704,39.3024339
+"{type=Point, coordinates=List(-76.66512966222041, 39.300189180001546)}",333,918,,Poplar Grove St - Riggs Ave,BPD Cameras,-76.66512966,39.30018918
+"{type=Point, coordinates=List(-76.66343699991944, 39.29925499984775)}",334,919,,Mosher St - N Dukeland St,BPD Cameras,-76.66343699,39.29925499
+"{type=Point, coordinates=List(-76.66520610472047, 39.297976560168365)}",335,920,,Poplar Grove St - W. Lafayette Ave,BPD Cameras,-76.6652061,39.29797656
+"{type=Point, coordinates=List(-76.66683500009111, 39.296935000240204)}",336,921,,N Franklintown Rd - N Longwood St,BPD Cameras,-76.666835,39.296935
+"{type=Point, coordinates=List(-76.66509747500889, 39.29618524106674)}",337,922,,Poplar Grove St - Rayner Ave,BPD Cameras,-76.66509747,39.29618524
+"{type=Point, coordinates=List(-76.66480779545974, 39.29452049856755)}",338,923,,Poplar Grove St - Edmonson Ave,BPD Cameras,-76.66480779,39.29452049
+"{type=Point, coordinates=List(-76.65927708080743, 39.29474364340157)}",339,924,,Edmonson Ave - Braddish Ave,BPD Cameras,-76.65927708,39.29474364
+"{type=Point, coordinates=List(-76.65621533988164, 39.29482148401712)}",340,925,,Edmonson Ave - N Warwick Ave,BPD Cameras,-76.65621533,39.29482148
+"{type=Point, coordinates=List(-76.67405337111485, 39.294188375954796)}",341,926,,Edmonson Ave - Denison St,BPD Cameras,-76.67405337,39.29418837
+"{type=Point, coordinates=List(-76.69382661598812, 39.293488836937875)}",342,927,,Edmonson Ave - Swan Ave,BPD Cameras,-76.69382661,39.29348883
+"{type=Point, coordinates=List(-76.68246343660984, 39.29387908456466)}",343,928,,Edmonson Ave - N Loudon Ave,BPD Cameras,-76.68246343,39.29387908
+"{type=Point, coordinates=List(-76.67828589681683, 39.29406175289049)}",344,929,,Edmonson Ave - Allendale St,BPD Cameras,-76.67828589,39.29406175
+"{type=Point, coordinates=List(-76.64080300042879, 39.28545399993849)}",345,1001,,W Pratt St - S Stricker St,BPD Cameras,-76.640803,39.28545399
+"{type=Point, coordinates=List(-76.64073765263394, 39.284448168739424)}",346,1002,,McHenry - Stricker,BPD Cameras,-76.64073765,39.28444816
+"{type=Point, coordinates=List(-76.64068599976795, 39.28334600039183)}",347,1003,,S Stricker St - Ramsay St,BPD Cameras,-76.64068599,39.283346
+"{type=Point, coordinates=List(-76.64143770851015, 39.28444816930537)}",348,1004,,Parrish - McHenry,BPD Cameras,-76.6414377,39.28444816
+"{type=Point, coordinates=List(-76.64140099976328, 39.28330799968821)}",349,1005,,Parrish-Ramsey,BPD Cameras,-76.64140099,39.28330799
+"{type=Point, coordinates=List(-76.6421136264204, 39.28440042031603)}",350,1006,,McHenry St - S Gilmor St,BPD Cameras,-76.64211362,39.28440042
+"{type=Point, coordinates=List(-76.64208948606765, 39.283275184202544)}",351,1007,,S Gilmor St - Ramsay St,BPD Cameras,-76.64208948,39.28327518
+"{type=Point, coordinates=List(-76.64362102691307, 39.285320109895345)}",352,1008,,W Pratt St - S Mount St,BPD Cameras,-76.64362102,39.2853201
+"{type=Point, coordinates=List(-76.64355397206606, 39.28436512669254)}",353,1009,,MCHenry St - S Mount St,BPD Cameras,-76.64355397,39.28436512
+"{type=Point, coordinates=List(-76.64351105652199, 39.28325857518109)}",354,1010,,S Mount St - Ramsey St,BPD Cameras,-76.64351105,39.28325857
+"{type=Point, coordinates=List(-76.64504800056768, 39.285250999553135)}",355,1011,,W Pratt St - S Fulton Ave,BPD Cameras,-76.645048,39.28525099
+"{type=Point, coordinates=List(-76.64498090695561, 39.28433398593614)}",356,1012,,S Fulton St - McHenry St,BPD Cameras,-76.6449809,39.28433398
+"{type=Point, coordinates=List(-76.6449490002318, 39.283769999969095)}",357,1013,,Wilhelm St - S Fulton Ave,BPD Cameras,-76.644949,39.28376999
+"{type=Point, coordinates=List(-76.64491117026348, 39.28320667336415)}",358,1014,,Ramsay St - S Fulton Ave,BPD Cameras,-76.64491117,39.28320667
+"{type=Point, coordinates=List(-76.64578825147532, 39.284306997153784)}",359,1015,,McHenry St - S Addison St,BPD Cameras,-76.64578825,39.28430699
+"{type=Point, coordinates=List(-76.64677500051391, 39.285174999980086)}",360,1016,,W Pratt St - S Monroe St,BPD Cameras,-76.646775,39.28517499
+"{type=Point, coordinates=List(-76.64668611067503, 39.28369399990992)}",361,1017,,S Monroe St - Wilhelm St,BPD Cameras,-76.64668611,39.28369399
+"{type=Point, coordinates=List(-76.64666600029102, 39.2831470003359)}",362,1018,,S Monroe St - Ramsay St,BPD Cameras,-76.646666,39.283147
+"{type=Point, coordinates=List(-76.64844363858835, 39.28419904099902)}",363,1019,,S Payson St - McHenry St,BPD Cameras,-76.64844363,39.28419904
+"{type=Point, coordinates=List(-76.64839899970424, 39.28308199963649)}",364,1020,,S Payson St - Ramsay St,BPD Cameras,-76.64839899,39.28308199
+"{type=Point, coordinates=List(-76.64839300008012, 39.28281499984564)}",365,1021,,S Payson St - Ashton St,BPD Cameras,-76.648393,39.28281499
+"{type=Point, coordinates=List(-76.64982497720142, 39.28417205201272)}",366,1022,,S Pulaski St - McHenry,BPD Cameras,-76.64982497,39.28417205
+"{type=Point, coordinates=List(-76.64978474404691, 39.283599053937834)}",367,1023,,S Pulaski St - Wilhelm St,BPD Cameras,-76.64978474,39.28359905
+"{type=Point, coordinates=List(-76.64978299974783, 39.28300900021271)}",368,1024,,S Pulaski St - Ramsay St,BPD Cameras,-76.64978299,39.283009
+"{type=Point, coordinates=List(-76.6497719994467, 39.282387000332776)}",369,1025,,S Pulaski St - Ashton St,BPD Cameras,-76.64977199,39.282387
+"{type=Point, coordinates=List(-76.65120500031759, 39.28293000008521)}",370,1026,,S Smallwood St - Ramsay St,BPD Cameras,-76.651205,39.28293
+"{type=Point, coordinates=List(-76.63798399966484, 39.28558699971152)}",371,1028,,Pratt - Carey,BPD Cameras,-76.63798399,39.28558699
+"{type=Point, coordinates=List(-76.63559000020125, 39.30433900016933)}",372,1964,,PENNSYLVANIA-LAURENS,BPD Cameras,-76.63559,39.304339
+"{type=Point, coordinates=List(-76.63682999988572, 39.30342199976804)}",373,1965,,Fremont-Laurens,BPD Cameras,-76.63682999,39.30342199
+"{type=Point, coordinates=List(-76.60772904832469, 39.28191947996682)}",374,1901,,Rusty Scupper,BPD Cameras,-76.60772904,39.28191947
+"{type=Point, coordinates=List(-76.60930484527809, 39.28185927162182)}",375,1902,,Rash Field,BPD Cameras,-76.60930484,39.28185927
+"{type=Point, coordinates=List(-76.61000087918428, 39.28184681485378)}",376,1903,,Carousel,BPD Cameras,-76.61000087,39.28184681
+"{type=Point, coordinates=List(-76.61162495611097, 39.28200667662319)}",377,1904,,Science Center,BPD Cameras,-76.61162495,39.28200667
+"{type=Point, coordinates=List(-76.6108100002279, 39.285746999579885)}",378,1905,,Spirit Of Baltimore,BPD Cameras,-76.61081,39.28574699
+"{type=Point, coordinates=List(-76.61248460447452, 39.284265475023744)}",379,1906,,Visitor Center,BPD Cameras,-76.6124846,39.28426547
+"{type=Point, coordinates=List(-76.61190926970352, 39.285390694925844)}",380,1907,,Light Street Food Hall,BPD Cameras,-76.61190926,39.28539069
+"{type=Point, coordinates=List(-76.611388921937, 39.28595122177301)}",381,1908,,Constellation,BPD Cameras,-76.61138892,39.28595122
+"{type=Point, coordinates=List(-76.61082163516299, 39.2852547152739)}",382,1909,,Constellation Pier,BPD Cameras,-76.61082163,39.28525471
+"{type=Point, coordinates=List(-76.6101765632115, 39.28600104601255)}",383,1910,,Trade Center,BPD Cameras,-76.61017656,39.28600104
+"{type=Point, coordinates=List(-76.60600840951183, 39.28375683675781)}",384,1911,,Pier 5 Hotel,BPD Cameras,-76.6060084,39.28375683
+"{type=Point, coordinates=List(-76.6052117941148, 39.28337483677528)}",385,1912,,Pier 5 Lighthouse,BPD Cameras,-76.60521179,39.28337483
+"{type=Point, coordinates=List(-76.60461999944815, 39.283761000059876)}",386,1913,,Pier 6 Pavillion,BPD Cameras,-76.60461999,39.283761
+"{type=Point, coordinates=List(-76.63668000020233, 39.28761899959024)}",387,1985,,HOLLINS-CARROLLTON,BPD Cameras,-76.63668,39.28761899
+"{type=Point, coordinates=List(-76.58778000036601, 39.29752499967663)}",388,1945,,McElderry-Chester,BPD Cameras,-76.58778,39.29752499
+"{type=Point, coordinates=List(-76.62877038901699, 39.299709887064225)}",389,2001,,McCulloh 553 Dolphin St,BPD Cameras,-76.62877038,39.29970988
+"{type=Point, coordinates=List(-76.6282466472862, 39.299474165805414)}",390,2002,,McCulloh 569 Dolphin St,BPD Cameras,-76.62824664,39.29947416
+"{type=Point, coordinates=List(-76.62781981255225, 39.299569031551606)}",391,2003,,McCulloh 520 Hoffman St,BPD Cameras,-76.62781981,39.29956903
+"{type=Point, coordinates=List(-76.62821281998826, 39.30019485698968)}",392,2004,,McCulloh 517 Dolphin St,BPD Cameras,-76.62821281,39.30019485
+"{type=Point, coordinates=List(-76.62701484079366, 39.29944457134612)}",393,2005,,McCulloh 534 Preston St,BPD Cameras,-76.62701484,39.29944457
+"{type=Point, coordinates=List(-76.62771090654516, 39.30044088482385)}",394,2006,,McCulloh 503 Dolphin St,BPD Cameras,-76.6277109,39.30044088
+"{type=Point, coordinates=List(-76.62795158077303, 39.29903602329837)}",395,2007,,McCulloh 535 Hoffman St,BPD Cameras,-76.62795158,39.29903602
+"{type=Point, coordinates=List(-76.62731292204582, 39.298552512070216)}",396,2008,,McCulloh 570 Preston St,BPD Cameras,-76.62731292,39.29855251
+"{type=Point, coordinates=List(-76.62691403813449, 39.29886243790243)}",397,2009,,McCulloh 556 Preston St,BPD Cameras,-76.62691403,39.29886243
+"{type=Point, coordinates=List(-76.62652287120382, 39.299079561173464)}",398,2010,,McCulloh 516 Preston St,BPD Cameras,-76.62652287,39.29907956
+"{type=Point, coordinates=List(-76.62660113565387, 39.299364912149024)}",399,2011,,McCulloh 514 Preston St,BPD Cameras,-76.62660113,39.29936491
+"{type=Point, coordinates=List(-76.62647900198985, 39.299944205165325)}",400,2012,,McCulloh 1020 Druid Hill Rd,BPD Cameras,-76.626479,39.2999442
+"{type=Point, coordinates=List(-76.62595689641408, 39.302018245001264)}",401,2013,,McCulloh 1135 Tiffany Ct,BPD Cameras,-76.62595689,39.30201824
+"{type=Point, coordinates=List(-76.62543825247536, 39.30160299697587)}",402,2014,,McCulloh 1101 Tiffany Ct,BPD Cameras,-76.62543825,39.30160299
+"{type=Point, coordinates=List(-76.62537447035243, 39.300683999396476)}",403,2015,,McCulloh 1035 Tiffany Ct,BPD Cameras,-76.62537447,39.30068399
+"{type=Point, coordinates=List(-76.624463592405, 39.300815107961874)}",404,2016,,McCulloh 1001 Tiffany Ct,BPD Cameras,-76.62446359,39.3008151
+"{type=Point, coordinates=List(-76.62511848857518, 39.300550491556315)}",405,2017,,McCulloh 440 Oxford Ct,BPD Cameras,-76.62511848,39.30055049
+"{type=Point, coordinates=List(-76.62649671874128, 39.30137368755763)}",406,2018,,McCulloh 443 Manse Ct,BPD Cameras,-76.62649671,39.30137368
+"{type=Point, coordinates=List(-76.62715799643141, 39.30110983225424)}",407,2019,,McCulloh 1134 Stoddard Ct,BPD Cameras,-76.62715799,39.30110983
+"{type=Point, coordinates=List(-76.6266532118114, 39.30070189896095)}",408,2020,,McCulloh 1100 Stoddard CT,BPD Cameras,-76.62665321,39.30070189
+"{type=Point, coordinates=List(-76.62619074744613, 39.30032588128368)}",409,2021,,McCulloh 1034 Stoddard Ct,BPD Cameras,-76.62619074,39.30032588
+"{type=Point, coordinates=List(-76.62565418234132, 39.2998910233151)}",410,2022,,McCulloh 1000 Stoddard Ct,BPD Cameras,-76.62565418,39.29989102
+"{type=Point, coordinates=List(-76.62474749440821, 39.29997810311737)}",411,2023,,McCulloh 442 Walton Ct,BPD Cameras,-76.62474749,39.2999781
+"{type=Point, coordinates=List(-76.62447835953954, 39.29891389410312)}",412,2024,,McCulloh 900 Stoddard Ct,BPD Cameras,-76.62447835,39.29891389
+"{type=Point, coordinates=List(-76.64559716144471, 39.30727567160695)}",413,2102,,Gilmor-1638 Bruce Ct,BPD Cameras,-76.64559716,39.30727567
+"{type=Point, coordinates=List(-76.64510638485498, 39.307862027875636)}",414,2106,,1679 Bakbury Ct,BPD Cameras,-76.64510638,39.30786202
+"{type=Point, coordinates=List(-76.64444881294081, 39.30745072028079)}",415,2110,,1606 Vincent Ct,BPD Cameras,-76.64444881,39.30745072
+"{type=Point, coordinates=List(-76.64412465698796, 39.307393215775775)}",416,2112,,1641 Vincent Ct,BPD Cameras,-76.64412465,39.30739321
+"{type=Point, coordinates=List(-76.64429910857221, 39.30681883671049)}",417,2109,,1600 Vincent Ct,BPD Cameras,-76.6442991,39.30681883
+"{type=Point, coordinates=List(-76.64471643862007, 39.30680011964481)}",418,2108,,Gilmor-1600 Mountmor Ct,BPD Cameras,-76.64471643,39.30680011
+"{type=Point, coordinates=List(-76.64497297850524, 39.306793670980355)}",419,2105,,1601 Bakbury Ct,BPD Cameras,-76.64497297,39.30679367
+"{type=Point, coordinates=List(-76.64451501994758, 39.30578595637063)}",420,2114,,1605-2 Spray Ct,BPD Cameras,-76.64451501,39.30578595
+"{type=Point, coordinates=List(-76.64409169592079, 39.30590099025389)}",421,2115,,1601-8 Spray Ct,BPD Cameras,-76.64409169,39.30590099
+"{type=Point, coordinates=List(-76.64355992482152, 39.30572600381672)}",422,2117,,1519 Presser Ct,BPD Cameras,-76.64355992,39.305726
+"{type=Point, coordinates=List(-76.64390596386212, 39.305455128686226)}",423,2116,,1500 Pressman Ct,BPD Cameras,-76.64390596,39.30545512
+"{type=Point, coordinates=List(-76.64408636317003, 39.3051918261832)}",424,2119,,1638 Balmor Ct,BPD Cameras,-76.64408636,39.30519182
+"{type=Point, coordinates=List(-76.64463011647062, 39.30524787393352)}",425,2120,,1458 Mountmor Ct,BPD Cameras,-76.64463011,39.30524787
+"{type=Point, coordinates=List(-76.64451093567158, 39.30480906023348)}",426,2121,,1428 Mountmor Ct,BPD Cameras,-76.64451093,39.30480906
+"{type=Point, coordinates=List(-76.64340858460362, 39.30457479617719)}",427,2125,,1601 Booker Ct,BPD Cameras,-76.64340858,39.30457479
+"{type=Point, coordinates=List(-76.64428128496789, 39.304434783438765)}",428,2123,,1401 Mountmor Ct,BPD Cameras,-76.64428128,39.30443478
+"{type=Point, coordinates=List(-76.64422527706434, 39.30406674012518)}",429,2127,,1631 Lorman Ct,BPD Cameras,-76.64422527,39.30406674
+"{type=Point, coordinates=List(-76.64384553128156, 39.30376006797555)}",430,2130,,1628 Delano Ct,BPD Cameras,-76.64384553,39.30376006
+"{type=Point, coordinates=List(-76.6438630155524, 39.304000984688244)}",431,2126,,1629 Lorman Ct,BPD Cameras,-76.64386301,39.30400098
+"{type=Point, coordinates=List(-76.64404833518644, 39.30447299780215)}",432,2124,,1639 Booker Ct,BPD Cameras,-76.64404833,39.30447299
+"{type=Point, coordinates=List(-76.60616643788858, 39.30125298115354)}",433,2201,,Latrobe 800 Abbott ct,BPD Cameras,-76.60616643,39.30125298
+"{type=Point, coordinates=List(-76.60501761598482, 39.301329714655424)}",434,2202,,Latrobe 856 Abbott Ct,BPD Cameras,-76.60501761,39.30132971
+"{type=Point, coordinates=List(-76.6056869227212, 39.30100885656414)}",435,2203,,Latrobe 818 WebbCt,BPD Cameras,-76.60568692,39.30100885
+"{type=Point, coordinates=List(-76.60595763103467, 39.30029944087894)}",436,2204,,Latrobe 800 McAleer Ct,BPD Cameras,-76.60595763,39.30029944
+"{type=Point, coordinates=List(-76.60529711455295, 39.300311914284464)}",437,2205,,Latrobe 834 McAleer Ct,BPD Cameras,-76.60529711,39.30031191
+"{type=Point, coordinates=List(-76.60474062044325, 39.30004187442727)}",438,2206,,Latrobe 864 McAleer Ct,BPD Cameras,-76.60474062,39.30004187
+"{type=Point, coordinates=List(-76.6052816304485, 39.2999771434118)}",439,2207,,Latrobe 831 McAleer Ct - Unit) - 1289,BPD Cameras,-76.60528163,39.29997714
+"{type=Point, coordinates=List(-76.60589953782318, 39.299950171813386)}",440,2208,,Latrobe 859 Homewood Ave,BPD Cameras,-76.60589953,39.29995017
+"{type=Point, coordinates=List(-76.60570972652579, 39.299387499951536)}",441,2209,,Latrobe 820 Hillman Ct,BPD Cameras,-76.60570972,39.29938749
+"{type=Point, coordinates=List(-76.6060758054901, 39.299349692657046)}",442,2210,,Latrobe 819 Hillman Ave,BPD Cameras,-76.6060758,39.29934969
+"{type=Point, coordinates=List(-76.6043042489336, 39.30130806879422)}",443,2211,,Latrobe 819 Homewood Ave,BPD Cameras,-76.60430424,39.30130806
+"{type=Point, coordinates=List(-76.60373293016076, 39.30077855435671)}",444,2212,,Latrobe 916 Webb ct,BPD Cameras,-76.60373293,39.30077855
+"{type=Point, coordinates=List(-76.60430285385348, 39.30043763687029)}",445,2213,,Latrobe 921 Webb ct,BPD Cameras,-76.60430285,39.30043763
+"{type=Point, coordinates=List(-76.60378475944341, 39.300222631995474)}",446,2214,,Latrobe 922 Ashland ct,BPD Cameras,-76.60378475,39.30022263
+"{type=Point, coordinates=List(-76.60439733750233, 39.29982219524862)}",447,2215,,Latrobe 859 McAleer Ct,BPD Cameras,-76.60439733,39.29982219
+"{type=Point, coordinates=List(-76.60390104257276, 39.29920736823534)}",448,2216,,Latrobe ct 943 Wilmot,BPD Cameras,-76.60390104,39.29920736
+"{type=Point, coordinates=List(-76.6027394907517, 39.30136078842795)}",449,2217,,Latrobe 1000 Abbott Ct,BPD Cameras,-76.60273949,39.30136078
+"{type=Point, coordinates=List(-76.60271478815913, 39.30060081861035)}",450,2218,,Latrobe 1101 Webb CT,BPD Cameras,-76.60271478,39.30060081
+"{type=Point, coordinates=List(-76.60287142444643, 39.30027179962808)}",451,2219,,Latrobe 1000 Ashland ct,BPD Cameras,-76.60287142,39.30027179
+"{type=Point, coordinates=List(-76.60311752630452, 39.29986854674061)}",452,2220,,Latrobe 1020 McAleer ct,BPD Cameras,-76.60311752,39.29986854
+"{type=Point, coordinates=List(-76.60354725346983, 39.29971551306391)}",453,2221,,Latrobe 1001 McAleer ct,BPD Cameras,-76.60354725,39.29971551
+"{type=Point, coordinates=List(-76.60213583305747, 39.300148588763555)}",454,2222,,Latrobe 1116 McAleer Ct,BPD Cameras,-76.60213583,39.30014858
+"{type=Point, coordinates=List(-76.60223933978409, 39.29990915297555)}",455,2223,,Latrobe 1130 McAleer Ct,BPD Cameras,-76.60223933,39.29990915
+"{type=Point, coordinates=List(-76.60272871122349, 39.29928783096557)}",456,2224,,Latrobe 1101Wilmot Ct,BPD Cameras,-76.60272871,39.29928783
+"{type=Point, coordinates=List(-76.60470599959565, 39.300228000421136)}",457,2225,,Latrobe 901 valley ct,BPD Cameras,-76.60470599,39.300228
+"{type=Point, coordinates=List(-76.60470599959565, 39.300228000421136)}",458,2226,,Latrobe 901 valley ct,BPD Cameras,-76.60470599,39.300228
+"{type=Point, coordinates=List(-76.60463600022734, 39.29964999994401)}",459,2227,,Latrobe 901 McAleer Ct,BPD Cameras,-76.604636,39.29964999
+"{type=Point, coordinates=List(-76.59831398546655, 39.28897423960476)}",460,2301,,Perkins 200 Spring Ct,BPD Cameras,-76.59831398,39.28897423
+"{type=Point, coordinates=List(-76.59804403797385, 39.28750372703318)}",461,2302,,Perkins 299 Spring Ct,BPD Cameras,-76.59804403,39.28750372
+"{type=Point, coordinates=List(-76.59751363160981, 39.28802737368097)}",462,2303,,Perkins 264 Ballou Ct,BPD Cameras,-76.59751363,39.28802737
+"{type=Point, coordinates=List(-76.59721280634442, 39.2886074515993)}",463,2304,,Perkins 229 Ballou Ct,BPD Cameras,-76.5972128,39.28860745
+"{type=Point, coordinates=List(-76.5964394076052, 39.28814911566963)}",464,2305,,Perkins 269 Dallas Ct,BPD Cameras,-76.5964394,39.28814911
+"{type=Point, coordinates=List(-76.59577340274156, 39.288642230113346)}",465,2306,,Perkins 231 Mason ct,BPD Cameras,-76.5957734,39.28864223
+"{type=Point, coordinates=List(-76.59575298678452, 39.28762454635294)}",466,2307,,Perkins 299 Mason Ct,BPD Cameras,-76.59575298,39.28762454
+"{type=Point, coordinates=List(-76.59563079130244, 39.287679867611196)}",467,2308,,Perkins 295 Mason Court,BPD Cameras,-76.59563079,39.28767986
+"{type=Point, coordinates=List(-76.59501651083042, 39.2891128209876)}",468,2309,,Perkins 200 Herring Ct,BPD Cameras,-76.59501651,39.28911282
+"{type=Point, coordinates=List(-76.59533753237801, 39.288037116718996)}",469,2310,,Perkins 270 Herring Ct,BPD Cameras,-76.59533753,39.28803711
+"{type=Point, coordinates=List(-76.59482631943608, 39.28766516057359)}",470,2311,,Perkins 299 Herring Ct,BPD Cameras,-76.59482631,39.28766516
+"{type=Point, coordinates=List(-76.59815645265599, 39.28649139533781)}",471,2312,,Perkins 354 Spring Ct,BPD Cameras,-76.59815645,39.28649139
+"{type=Point, coordinates=List(-76.59684300009246, 39.2864679996468)}",472,217,,Bank and Caroline,BPD Cameras,-76.596843,39.28646799
+"{type=Point, coordinates=List(-76.5977388252188, 39.28695170809555)}",473,2313,,Perkins Community Bldg,BPD Cameras,-76.59773882,39.2869517
+"{type=Point, coordinates=List(-76.59743264449317, 39.287355872208856)}",474,2314,,Perkins 1413 Gough st,BPD Cameras,-76.59743264,39.28735587
+"{type=Point, coordinates=List(-76.59712631440911, 39.28711094896308)}",475,2315,,Perkins 319 Ballou Ct,BPD Cameras,-76.59712631,39.28711094
+"{type=Point, coordinates=List(-76.59737062947138, 39.286883201234666)}",476,2315,,Perkins 330 Ballou ct,BPD Cameras,-76.59737062,39.2868832
+"{type=Point, coordinates=List(-76.59662617955867, 39.28701466890921)}",477,2317,,Perkins 326 Dallas Ct,BPD Cameras,-76.59662617,39.28701466
+"{type=Point, coordinates=List(-76.59604463756398, 39.286850632552145)}",478,2318,,Perkins 336 Mason Ct,BPD Cameras,-76.59604463,39.28685063
+"{type=Point, coordinates=List(-76.59571654577006, 39.28697963870245)}",479,2319,,Perkins 329 Mason Ct,BPD Cameras,-76.59571654,39.28697963
+"{type=Point, coordinates=List(-76.59526117384642, 39.28706545622361)}",480,2320,,Perkins 326 Herring Ct,BPD Cameras,-76.59526117,39.28706545
+"{type=Point, coordinates=List(-76.60404303841774, 39.29457857085982)}",481,2401,,231 Orleans St,BPD Cameras,-76.60404303,39.29457857
+"{type=Point, coordinates=List(-76.60308452059951, 39.294542795623215)}",482,2402,,310 Forrest St,BPD Cameras,-76.60308452,39.29454279
+"{type=Point, coordinates=List(-76.60185260039073, 39.293739504898106)}",483,2403,,1110 New Hope Cir,BPD Cameras,-76.6018526,39.2937395
+"{type=Point, coordinates=List(-76.60270379980915, 39.293245953584545)}",484,2404,,1021 New Hope Cir,BPD Cameras,-76.60270379,39.29324595
+"{type=Point, coordinates=List(-76.60323420933857, 39.29391185631097)}",485,2405,,1008 New Hope Cir,BPD Cameras,-76.6032342,39.29391185
+"{type=Point, coordinates=List(-76.60183096952909, 39.292945799260316)}",486,2406,,1124 Colvin St.,BPD Cameras,-76.60183096,39.29294579
+"{type=Point, coordinates=List(-76.60389305081681, 39.29363218864106)}",487,2407,,215 Saint Mathews St.,BPD Cameras,-76.60389305,39.29363218
+"{type=Point, coordinates=List(-76.60333686660611, 39.29261824013045)}",488,2408,,1100 Colvin St.,BPD Cameras,-76.60333686,39.29261824
+"{type=Point, coordinates=List(-76.60213999545132, 39.29423488018823)}",489,2409,,SE.Corner of N.Tot Lot,BPD Cameras,-76.60213999,39.29423488
+"{type=Point, coordinates=List(-76.60221290160023, 39.29329526014013)}",490,2410,,NW. Corner of S.Tot Lot,BPD Cameras,-76.6022129,39.29329526
+"{type=Point, coordinates=List(-76.60318107741473, 39.29302221009772)}",491,2411,,SE. Corner of W. Tot Lot,BPD Cameras,-76.60318107,39.29302221
+"{type=Point, coordinates=List(-76.60132608148396, 39.293431253000236)}",492,2412,,Courtyard Play Area,BPD Cameras,-76.60132608,39.29343125
+"{type=Point, coordinates=List(-76.6001393680418, 39.29347312622926)}",493,2413,,NE. Elderly Bldg. Central Ave.,BPD Cameras,-76.60013936,39.29347312
+"{type=Point, coordinates=List(-76.60122833483062, 39.29391743413581)}",494,2414,,NE. Community Center,BPD Cameras,-76.60122833,39.29391743
+"{type=Point, coordinates=List(-76.60011594324493, 39.29285341563389)}",495,2415,,SE. Elderly Bldg. Central Ave.,BPD Cameras,-76.60011594,39.29285341
+"{type=Point, coordinates=List(-76.60069699358716, 39.292815763955495)}",496,2416,,SW. Elderly Bldg. Fayette St.,BPD Cameras,-76.60069699,39.29281576
+"{type=Point, coordinates=List(-76.60068449018465, 39.29300049882797)}",497,2417,,Elderly Bldg. Court Yard,BPD Cameras,-76.60068449,39.29300049
+"{type=Point, coordinates=List(-76.60298333306231, 39.291816666679864)}",498,2418,,Youth Center Fayette St.,BPD Cameras,-76.60298333,39.29181666
+"{type=Point, coordinates=List(-76.60222670214364, 39.29203363417307)}",499,2419,,Daycare Center 1106 Fayette St.,BPD Cameras,-76.6022267,39.29203363
+"{type=Point, coordinates=List(-76.60199784484456, 39.292481496075766)}",500,2420,,Daycare Center Play Area,BPD Cameras,-76.60199784,39.29248149
+"{type=Point, coordinates=List(-76.60073412944867, 39.29347698839622)}",501,2421,,NW Senior Center,BPD Cameras,-76.60073412,39.29347698
+"{type=Point, coordinates=List(-76.63618888912124, 39.28735555580362)}",502,1986,,Boyd St Side Entrance,BPD Cameras,-76.63618888,39.28735555
+"{type=Point, coordinates=List(-76.63516111108508, 39.287466666599194)}",503,1987,,Arlington Ave East Entrance,BPD Cameras,-76.63516111,39.28746666
+"{type=Point, coordinates=List(-76.59343333253013, 39.283522222246674)}",504,226,,Aliceanna and Broadway west,BPD Cameras,-76.59343333,39.28352222
+"{type=Point, coordinates=List(-76.68254166712458, 39.353833333062255)}",505,839,,3500 Northern Pkwy(E&T),BPD Cameras,-76.68254166,39.35383333
+"{type=Point, coordinates=List(-76.61423888957334, 39.29520555558753)}",506,78,,St Paul and Franklin,BPD Cameras,-76.61423888,39.29520555
+"{type=Point, coordinates=List(-76.64035944843867, 39.30829679055719)}",507,1101,,Pennsylvania - Baker,BPD Cameras,-76.64035944,39.30829679
+"{type=Point, coordinates=List(-76.63938897741589, 39.307495059062944)}",508,1103,,Pennsylvania - Gold,BPD Cameras,-76.63938897,39.30749505
+"{type=Point, coordinates=List(-76.63842993383017, 39.306719453817784)}",509,1104,,Pennsylvania - Bloom,BPD Cameras,-76.63842993,39.30671945
+"{type=Point, coordinates=List(-76.63747448226259, 39.30586944202763)}",510,1106,,Pennsylvania - Presstman,BPD Cameras,-76.63747448,39.30586944
+"{type=Point, coordinates=List(-76.6380174102838, 39.3055894984405)}",511,1105,,Freemont - Presstman,BPD Cameras,-76.63801741,39.30558949
+"{type=Point, coordinates=List(-76.63662011115896, 39.305195744157416)}",512,1109,,Pennsylvania - Robert,BPD Cameras,-76.63662011,39.30519574
+"{type=Point, coordinates=List(-76.63543773546205, 39.30591732633901)}",513,1108,,Division - Robert,BPD Cameras,-76.63543773,39.30591732
+"{type=Point, coordinates=List(-76.63749054715691, 39.30462960776282)}",514,1110,,Freemont - Robert,BPD Cameras,-76.63749054,39.3046296
+"{type=Point, coordinates=List(-76.63458211983205, 39.30357316259274)}",515,1112,,Pennsylvania - Wilson,BPD Cameras,-76.63458211,39.30357316
+"{type=Point, coordinates=List(-76.63413345544775, 39.3031085618324)}",516,1114,,Pennsylvania - Pitcher,BPD Cameras,-76.63413345,39.30310856
+"{type=Point, coordinates=List(-76.63588256245195, 39.301705101379476)}",517,1115,,Fremont - Pitcher,BPD Cameras,-76.63588256,39.3017051
+"{type=Point, coordinates=List(-76.63265592898459, 39.3019556114418)}",518,1118,,Pennsylvania - Mosher,BPD Cameras,-76.63265592,39.30195561
+"{type=Point, coordinates=List(-76.6456224020694, 39.30783962876525)}",519,2101,,Behind 1638 Bruce Ct,BPD Cameras,-76.6456224,39.30783962
+"{type=Point, coordinates=List(-76.6455585145715, 39.30676856464603)}",520,2103,,Behind 1600 Bruce Ct,BPD Cameras,-76.64555851,39.30676856
+"{type=Point, coordinates=List(-76.64523892709424, 39.30676870002898)}",521,2104,,1605 Bruce Ct,BPD Cameras,-76.64523892,39.3067687
+"{type=Point, coordinates=List(-76.64467223679732, 39.3078788399309)}",522,2107,,1678 Mountmor Ct,BPD Cameras,-76.64467223,39.30787883
+"{type=Point, coordinates=List(-76.6440099680183, 39.3078976167301)}",523,2111,,1679 Vincent Ct,BPD Cameras,-76.64400996,39.30789761
+"{type=Point, coordinates=List(-76.64464309952994, 39.30621419676546)}",524,2113,,1600 Spray Ct,BPD Cameras,-76.64464309,39.30621419
+"{type=Point, coordinates=List(-76.6433444088275, 39.30525916787562)}",525,2118,,Prestman St & Gilmor St,BPD Cameras,-76.6433444,39.30525916
+"{type=Point, coordinates=List(-76.64386956244626, 39.3049686999782)}",526,2122,,Behind1629 Balmor Ct,BPD Cameras,-76.64386956,39.30496869
+"{type=Point, coordinates=List(-76.6445295479357, 39.304019962439554)}",527,2128,,1649 Lorman Ct,BPD Cameras,-76.64452954,39.30401996
+"{type=Point, coordinates=List(-76.64451078900221, 39.30377614695096)}",528,2129,,1658 Delano Ct,BPD Cameras,-76.64451078,39.30377614
+"{type=Point, coordinates=List(-76.64328635442992, 39.30379381103017)}",529,2131,,1600 Delano Ct,BPD Cameras,-76.64328635,39.30379381
+"{type=Point, coordinates=List(-76.6153916671681, 39.290286111001826)}",530,79,,Charles & Fayette,BPD Cameras,-76.61539166,39.29028611
+"{type=Point, coordinates=List(-76.65409487548085, 39.309566894161556)}",531,737,,North and Bentalou,BPD Cameras,-76.65409487,39.30956689
+"{type=Point, coordinates=List(-76.60260636784629, 39.3117783386388)}",532,1201,,North and Aisquith,BPD Cameras,-76.60260636,39.31177833
+"{type=Point, coordinates=List(-76.59937607344348, 39.31193615019109)}",533,1202,,North and Harford,BPD Cameras,-76.59937607,39.31193615
+"{type=Point, coordinates=List(-76.59513265328779, 39.312210521430124)}",534,1203,,North and Broadway,BPD Cameras,-76.59513265,39.31221052
+"{type=Point, coordinates=List(-76.59170300380809, 39.31226029576729)}",535,1204,,North and Wolfe,BPD Cameras,-76.591703,39.31226029
+"{type=Point, coordinates=List(-76.59041842748266, 39.31231670577242)}",536,1205,,North and Washington,BPD Cameras,-76.59041842,39.3123167
+"{type=Point, coordinates=List(-76.5886731672689, 39.312394693594285)}",537,1206,,North and Chester,BPD Cameras,-76.58867316,39.31239469
+"{type=Point, coordinates=List(-76.58746958978169, 39.31244913270355)}",538,1207,,North and Collington,BPD Cameras,-76.58746958,39.31244913
+"{type=Point, coordinates=List(-76.58378524913297, 39.31254007391686)}",539,1209,,North and Port,BPD Cameras,-76.58378524,39.31254007
+"{type=Point, coordinates=List(-76.58403040958652, 39.31271333030887)}",540,1208,,North and Belair,BPD Cameras,-76.5840304,39.31271333
+"{type=Point, coordinates=List(-76.58311610578598, 39.312761747779454)}",541,1210,,North and Milton,BPD Cameras,-76.5831161,39.31276174
+"{type=Point, coordinates=List(-76.58088624544652, 39.31532133984602)}",542,1401,,Belair and Ravenwood,BPD Cameras,-76.58088624,39.31532133
+"{type=Point, coordinates=List(-76.5802519206719, 39.315902047865855)}",543,1402,,Belair and Elmora,BPD Cameras,-76.58025192,39.31590204
+"{type=Point, coordinates=List(-76.57952628856614, 39.31647791566939)}",544,1403,,Belair and Lyndale,BPD Cameras,-76.57952628,39.31647791
+"{type=Point, coordinates=List(-76.57892259313037, 39.31705549676386)}",545,1404,,Belair and Elmley,BPD Cameras,-76.57892259,39.31705549
+"{type=Point, coordinates=List(-76.57714254954794, 39.31875727023948)}",546,1405,,Belair(across from shopping center),BPD Cameras,-76.57714254,39.31875727
+"{type=Point, coordinates=List(-76.57589217566927, 39.319682223693874)}",547,1406,,Belair and Cliftmont,BPD Cameras,-76.57589217,39.31968222
+"{type=Point, coordinates=List(-76.574705421939, 39.32066599785601)}",548,1407,,Belair and Mareco,BPD Cameras,-76.57470542,39.32066599
+"{type=Point, coordinates=List(-76.57465176727722, 39.32092062771818)}",549,1408,,Belair and Clifton Park Terrace,BPD Cameras,-76.57465176,39.32092062
+"{type=Point, coordinates=List(-76.57369283421573, 39.32159690229792)}",550,1409,,Belair and Erdman,BPD Cameras,-76.57369283,39.3215969
+"{type=Point, coordinates=List(-76.56479913555617, 39.328711576666606)}",551,1410,,Belair and Sheldon,BPD Cameras,-76.56479913,39.32871157
+"{type=Point, coordinates=List(-76.59906881867491, 39.312970008981836)}",552,1301,,Harford and 20th,BPD Cameras,-76.59906881,39.31297
+"{type=Point, coordinates=List(-76.59791601962972, 39.314193860586165)}",553,1302,,Harford and Broadway,BPD Cameras,-76.59791601,39.31419386
+"{type=Point, coordinates=List(-76.59700112180748, 39.31515567032106)}",554,1303,,Harford and Darley,BPD Cameras,-76.59700112,39.31515567
+"{type=Point, coordinates=List(-76.59636314065207, 39.31571961003145)}",555,1304,,Harford and Cliftview,BPD Cameras,-76.59636314,39.31571961
+"{type=Point, coordinates=List(-76.59547050433376, 39.31663757496259)}",556,1305,,Harford and 25th,BPD Cameras,-76.5954705,39.31663757
+"{type=Point, coordinates=List(-76.59420055647168, 39.31783548373808)}",557,1306,,Harford(harbor city school),BPD Cameras,-76.59420055,39.31783548
+"{type=Point, coordinates=List(-76.59327639747396, 39.31863760479605)}",558,1307,,Harford and Montpelier,BPD Cameras,-76.59327639,39.3186376
+"{type=Point, coordinates=List(-76.59275515689922, 39.319142215757935)}",559,1307,,Harford and Homestead,BPD Cameras,-76.59275515,39.31914221
+"{type=Point, coordinates=List(-76.59108088126114, 39.32079736977632)}",560,1309,,Harford and Abbotston,BPD Cameras,-76.59108088,39.32079736
+"{type=Point, coordinates=List(-76.59063888339374, 39.32120280643145)}",561,1310,,Harford and Alameda,BPD Cameras,-76.59063888,39.3212028
+"{type=Point, coordinates=List(-76.58990177434345, 39.32186787266575)}",562,1311,,Harford and Tivoly,BPD Cameras,-76.58990177,39.32186787
+"{type=Point, coordinates=List(-76.5892426289291, 39.32235170330528)}",563,1312,,Harford and Fenwick,BPD Cameras,-76.58924262,39.3223517
+"{type=Point, coordinates=List(-76.58847863355656, 39.32293026094854)}",564,1313,,Harford and Hugo,BPD Cameras,-76.58847863,39.32293026
+"{type=Point, coordinates=List(-76.58386666745594, 39.3008944437997)}",565,626,,Montofrd - Ashland,BPD Cameras,-76.58386666,39.30089444
+"{type=Point, coordinates=List(-76.62332398409673, 39.24626665269762)}",566,351,,Carver Rd Front of Rec Center,BPD Cameras,-76.62332398,39.24626665
+"{type=Point, coordinates=List(-76.58652222167755, 39.29653888914204)}",567,627,,Collington & Jefferson,BPD Cameras,-76.58652222,39.29653888
+"{type=Point, coordinates=List(-76.58004722189504, 39.296811110960746)}",568,628,,Jefferson & Glover,BPD Cameras,-76.58004722,39.29681111
+"{type=Point, coordinates=List(-76.66688888901511, 39.34038888871765)}",569,840,,Park Heights & Oakford,BPD Cameras,-76.66688888,39.34038888
+"{type=Point, coordinates=List(-76.60660833308863, 39.29895555596338)}",570,2501,,Greenmount and Madison,BPD Cameras,-76.60660833,39.29895555
+"{type=Point, coordinates=List(-76.60952222188253, 39.32348055603713)}",571,534,,Greenmount - 29th,BPD Cameras,-76.60952222,39.32348055
+"{type=Point, coordinates=List(-76.6094333332125, 39.3260444440524)}",572,536,,Greenmount - 31st,BPD Cameras,-76.60943333,39.32604444
+"{type=Point, coordinates=List(-76.60938333335412, 39.327086110852)}",573,537,,Greenmount - 32nd,BPD Cameras,-76.60938333,39.32708611
+"{type=Point, coordinates=List(-76.60941944356236, 39.32826388933107)}",574,538,,Greenmount - 33rd,BPD Cameras,-76.60941944,39.32826388
+"{type=Point, coordinates=List(-76.64434722167624, 39.3063472221613)}",575,2132,,1521 Mountmor,BPD Cameras,-76.64434722,39.30634722
+"{type=Point, coordinates=List(-76.61559779257185, 39.296413151802376)}",576,2601,,N Charles St - Center St,BPD Cameras,-76.61559779,39.29641315
+"{type=Point, coordinates=List(-76.61571979335761, 39.29851804491329)}",577,2602,,N Charles St - Madison St,BPD Cameras,-76.61571979,39.29851804
+"{type=Point, coordinates=List(-76.61573202695305, 39.29975306762674)}",578,2603,,N Charles St - Read Ave,BPD Cameras,-76.61573202,39.29975306
+"{type=Point, coordinates=List(-76.61848996323072, 39.30033640235168)}",579,2604,,Park Ave - Read St,BPD Cameras,-76.61848996,39.3003364
+"{type=Point, coordinates=List(-76.61580229225773, 39.30110555641075)}",580,2605,,N Charles - Eager St,BPD Cameras,-76.61580229,39.30110555
+"{type=Point, coordinates=List(-76.61588200300096, 39.302461528071234)}",581,2606,,N Charles St - Chase St,BPD Cameras,-76.615882,39.30246152
+"{type=Point, coordinates=List(-76.61595468622198, 39.303521600223576)}",582,2607,,N Charles St - E Biddle St,BPD Cameras,-76.61595468,39.3035216
+"{type=Point, coordinates=List(-76.6160332446465, 39.30459525927103)}",583,2608,,N Charles St - Preston St,BPD Cameras,-76.61603324,39.30459525
+"{type=Point, coordinates=List(-76.61604841859406, 39.305475748210704)}",584,2609,,N Charles - Mt Royal Ave,BPD Cameras,-76.61604841,39.30547574
+"{type=Point, coordinates=List(-76.61631391143128, 39.30882272417116)}",585,2610,,N Charles St - Lanvale St,BPD Cameras,-76.61631391,39.30882272
+"{type=Point, coordinates=List(-76.6164455455556, 39.3110868158289)}",586,2611,,N Charles St - North Ave,BPD Cameras,-76.61644554,39.31108681
+"{type=Point, coordinates=List(-76.61653886178708, 39.312295615258826)}",587,2612,,N Charles St - 20th St,BPD Cameras,-76.61653886,39.31229561
+"{type=Point, coordinates=List(-76.59103600000905, 39.30063900005146)}",588,12,,N Wolfe St  and Ashland Ave,EBDI,-76.591036,39.300639
+"{type=Point, coordinates=List(-76.58972100012774, 39.30068000022491)}",589,10,,Ashland and Washington,EBDI,-76.589721,39.30068
+"{type=Point, coordinates=List(-76.5897815953107, 39.30198676944662)}",590,11,,Washington and Eager,EBDI,-76.58978159,39.30198676
+"{type=Point, coordinates=List(-76.59233599991441, 39.300574999819645)}",591,9,,Ashland and Rutland,EBDI,-76.59233599,39.30057499
+"{type=Point, coordinates=List(-76.5918700001388, 39.302480999903096)}",592,8,,Durham St,EBDI,-76.59187,39.30248099
+"{type=Point, coordinates=List(-76.59077605282502, 39.30384445116341)}",593,7,,School back Corner,EBDI,-76.59077605,39.30384445
+"{type=Point, coordinates=List(-76.58990399990324, 39.303417999841734)}",594,6,,Chase and Washington,EBDI,-76.58990399,39.30341799
+"{type=Point, coordinates=List(-76.59361831005972, 39.304276669010555)}",595,5,,McDonogh and Biddle,EBDI,-76.59361831,39.30427666
+"{type=Point, coordinates=List(-76.59357099967853, 39.303260999803044)}",596,4,,McDonogh and Chase,EBDI,-76.59357099,39.30326099
+"{type=Point, coordinates=List(-76.59348299966683, 39.3019039995955)}",597,3,,McDonogh and Eager,EBDI,-76.59348299,39.30190399
+"{type=Point, coordinates=List(-76.59252600049041, 39.30330300025406)}",598,2,,Rutland and Chase,EBDI,-76.592526,39.303303
+"{type=Point, coordinates=List(-76.59260500006458, 39.3043820003349)}",599,1,,Rutland and Biddle,EBDI,-76.592605,39.304382
+"{type=Point, coordinates=List(-76.59109454853326, 39.30201196800375)}",600,13,,Eager and Wolf,EBDI,-76.59109454,39.30201196
+"{type=Point, coordinates=List(-76.5944353463026, 39.30325479507813)}",601,14,,Broadway and Chase,EBDI,-76.59443534,39.30325479
+"{type=Point, coordinates=List(-76.59515609238872, 39.30322281405549)}",602,15,,Gay and Chase,EBDI,-76.59515609,39.30322281
+"{type=Point, coordinates=List(-76.59436987033243, 39.301889847582885)}",603,16,,Broadway and Eager,EBDI,-76.59436987,39.30188984
+"{type=Point, coordinates=List(-76.59426685642634, 39.300527306393825)}",604,17,,Ashland and Broadway,EBDI,-76.59426685,39.3005273
+"{type=Point, coordinates=List(-76.58993611098711, 39.304488888978234)}",605,18,,Washington and Biddle,EBDI,-76.58993611,39.30448888
+"{type=Point, coordinates=List(-76.59708800012345, 39.29604900042314)}",606,66,,66,Hopkins Fixed Cameras,-76.597088,39.296049
+"{type=Point, coordinates=List(-76.59733999948433, 39.296012000055974)}",607,64,,64,Hopkins Fixed Cameras,-76.59733999,39.296012
+"{type=Point, coordinates=List(-76.59380500036784, 39.29542699978457)}",608,78,,78,Hopkins Fixed Cameras,-76.593805,39.29542699
+"{type=Point, coordinates=List(-76.59073699953873, 39.29415200004281)}",609,89,,89,Hopkins Fixed Cameras,-76.59073699,39.294152
+"{type=Point, coordinates=List(-76.59161300044146, 39.2941120001833)}",610,115,,115,Hopkins Fixed Cameras,-76.591613,39.294112
+"{type=Point, coordinates=List(-76.59244800054822, 39.29407300003826)}",611,113,,113,Hopkins Fixed Cameras,-76.592448,39.294073
+"{type=Point, coordinates=List(-76.5929869997712, 39.29405600038644)}",612,111,,111,Hopkins Fixed Cameras,-76.59298699,39.294056
+"{type=Point, coordinates=List(-76.59373000024199, 39.29403099985692)}",613,107,,107,Hopkins Fixed Cameras,-76.59373,39.29403099
+"{type=Point, coordinates=List(-76.59384499968607, 39.294705999876754)}",614,131,,131,Hopkins Fixed Cameras,-76.59384499,39.29470599
+"{type=Point, coordinates=List(-76.59115500055749, 39.295157000028816)}",615,86,,86,Hopkins Fixed Cameras,-76.591155,39.295157
+"{type=Point, coordinates=List(-76.59242700041489, 39.29514399988221)}",616,83,,83,Hopkins Fixed Cameras,-76.592427,39.29514399
+"{type=Point, coordinates=List(-76.59350500013564, 39.295115000176)}",617,81,,81,Hopkins Fixed Cameras,-76.593505,39.295115
+"{type=Point, coordinates=List(-76.59385000011548, 39.29507700041214)}",618,128,,128,Hopkins Fixed Cameras,-76.59385,39.295077
+"{type=Point, coordinates=List(-76.59429599961679, 39.29537400042724)}",619,141,,141,Hopkins Fixed Cameras,-76.59429599,39.295374
+"{type=Point, coordinates=List(-76.59468700015526, 39.29537000038104)}",620,138,,138,Hopkins Fixed Cameras,-76.594687,39.29537
+"{type=Point, coordinates=List(-76.59537200018197, 39.295334999867954)}",621,73,,73,Hopkins Fixed Cameras,-76.595372,39.29533499
+"{type=Point, coordinates=List(-76.5970399995037, 39.29526499959409)}",622,68,,68,Hopkins Fixed Cameras,-76.59703999,39.29526499
+"{type=Point, coordinates=List(-76.59567699976313, 39.29604100036341)}",623,71,,71,Hopkins Fixed Cameras,-76.59567699,39.296041
+"{type=Point, coordinates=List(-76.59481099945678, 39.29608200005517)}",624,134,,134,Hopkins Fixed Cameras,-76.59481099,39.296082
+"{type=Point, coordinates=List(-76.59439200010446, 39.29611899956413)}",625,136,,136,Hopkins Fixed Cameras,-76.594392,39.29611899
+"{type=Point, coordinates=List(-76.59494200048692, 39.29649100011432)}",626,145,,145,Hopkins Fixed Cameras,-76.594942,39.296491
+"{type=Point, coordinates=List(-76.59466299953529, 39.29670899980699)}",627,143,,143,Hopkins Fixed Cameras,-76.59466299,39.29670899
+"{type=Point, coordinates=List(-76.59441899955009, 39.2973770001257)}",628,105,,105,Hopkins Fixed Cameras,-76.59441899,39.297377
+"{type=Point, coordinates=List(-76.59619999970543, 39.29731899985721)}",629,51,,51,Hopkins Fixed Cameras,-76.59619999,39.29731899
+"{type=Point, coordinates=List(-76.59740399979958, 39.297259000424035)}",630,47,,47,Hopkins Fixed Cameras,-76.59740399,39.297259
+"{type=Point, coordinates=List(-76.59746899983094, 39.29816599979464)}",631,45,,45,Hopkins Fixed Cameras,-76.59746899,39.29816599
+"{type=Point, coordinates=List(-76.59655099972039, 39.29821800000754)}",632,49,,49,Hopkins Fixed Cameras,-76.59655099,39.298218
+"{type=Point, coordinates=List(-76.59570400044225, 39.2982409996702)}",633,100,,100,Hopkins Fixed Cameras,-76.595704,39.29824099
+"{type=Point, coordinates=List(-76.59485599946926, 39.29828400012775)}",634,53,,53,Hopkins Fixed Cameras,-76.59485599,39.298284
+"{type=Point, coordinates=List(-76.59449400044575, 39.29830500002086)}",635,55,,55,Hopkins Fixed Cameras,-76.594494,39.298305
+"{type=Point, coordinates=List(-76.59444300013526, 39.29821399958999)}",636,58,,58,Hopkins Fixed Cameras,-76.594443,39.29821399
+"{type=Point, coordinates=List(-76.59395500020081, 39.298316000412775)}",637,60,,60,Hopkins Fixed Cameras,-76.593955,39.298316
+"{type=Point, coordinates=List(-76.59423400033651, 39.299321000198624)}",638,42,,42,Hopkins Fixed Cameras,-76.594234,39.299321
+"{type=Point, coordinates=List(-76.59306000006897, 39.29939499957685)}",639,40,,40,Hopkins Fixed Cameras,-76.59306,39.29939499
+"{type=Point, coordinates=List(-76.59269400039682, 39.298333999685546)}",640,62,,62,Hopkins Fixed Cameras,-76.592694,39.29833399
+"{type=Point, coordinates=List(-76.59207800047473, 39.29853999999058)}",641,37,,37,Hopkins Fixed Cameras,-76.592078,39.29853999
+"{type=Point, coordinates=List(-76.5921850001435, 39.29948299996454)}",642,34,,34,Hopkins Fixed Cameras,-76.592185,39.29948299
+"{type=Point, coordinates=List(-76.59110199995455, 39.29945799960486)}",643,29,,29,Hopkins Fixed Cameras,-76.59110199,39.29945799
+"{type=Point, coordinates=List(-76.5910370001881, 39.29858999964145)}",644,32,,32,Hopkins Fixed Cameras,-76.591037,39.29858999
+"{type=Point, coordinates=List(-76.5910040002544, 39.29843000009172)}",645,93,,93,Hopkins Fixed Cameras,-76.591004,39.29843
+"{type=Point, coordinates=List(-76.59065599980903, 39.29646799962648)}",646,166,,166,Hopkins Fixed Cameras,-76.59065599,39.29646799
+"{type=Point, coordinates=List(-76.59072599970398, 39.297106999790934)}",647,168,,168,Hopkins Fixed Cameras,-76.59072599,39.29710699
+"{type=Point, coordinates=List(-76.5904329999753, 39.29732500013588)}",648,149,,149,Hopkins Fixed Cameras,-76.59043299,39.297325
+"{type=Point, coordinates=List(-76.59011900016169, 39.297085000363644)}",649,170,,170,Hopkins Fixed Cameras,-76.590119,39.297085
+"{type=Point, coordinates=List(-76.58955399997538, 39.296517999609016)}",650,163,,163,Hopkins Fixed Cameras,-76.58955399,39.29651799
+"{type=Point, coordinates=List(-76.58956699957305, 39.2966990003664)}",651,158,,158,Hopkins Fixed Cameras,-76.58956699,39.296699
+"{type=Point, coordinates=List(-76.58957499980227, 39.2969329996352)}",652,156,,156,Hopkins Fixed Cameras,-76.58957499,39.29693299
+"{type=Point, coordinates=List(-76.58958799981116, 39.29714099972469)}",653,154,,154,Hopkins Fixed Cameras,-76.58958799,39.29714099
+"{type=Point, coordinates=List(-76.58962100003012, 39.29735699994373)}",654,152,,152,Hopkins Fixed Cameras,-76.589621,39.29735699
+"{type=Point, coordinates=List(-76.58961800043132, 39.2975249999551)}",655,123,,123,Hopkins Fixed Cameras,-76.589618,39.29752499
+"{type=Point, coordinates=List(-76.58945400046842, 39.297845999779234)}",656,102,,102,Hopkins Fixed Cameras,-76.589454,39.29784599
+"{type=Point, coordinates=List(-76.58970399974959, 39.29846300028964)}",657,119,,119,Hopkins Fixed Cameras,-76.58970399,39.298463
+"{type=Point, coordinates=List(-76.58979799976879, 39.29950799960488)}",658,24,,24,Hopkins Fixed Cameras,-76.58979799,39.29950799
+"{type=Point, coordinates=List(-76.58946999998695, 39.29866000033492)}",659,13,,13,Hopkins Fixed Cameras,-76.58946999,39.29866
+"{type=Point, coordinates=List(-76.58860699975, 39.2981419998474)}",660,98,,98,Hopkins Fixed Cameras,-76.58860699,39.29814199
+"{type=Point, coordinates=List(-76.58862899983887, 39.298494999624474)}",661,94,,94,Hopkins Fixed Cameras,-76.58862899,39.29849499
+"{type=Point, coordinates=List(-76.58862900040948, 39.29867699975113)}",662,5,,5,Hopkins Fixed Cameras,-76.588629,39.29867699
+"{type=Point, coordinates=List(-76.58867700048877, 39.29913400021406)}",663,2,,2,Hopkins Fixed Cameras,-76.588677,39.299134
+"{type=Point, coordinates=List(-76.58798499960113, 39.29870600037862)}",664,7,,7,Hopkins Fixed Cameras,-76.58798499,39.298706
+"{type=Point, coordinates=List(-76.5879740004724, 39.29913799994419)}",665,1,,1,Hopkins Fixed Cameras,-76.587974,39.29913799
+"{type=Point, coordinates=List(-76.58802200008871, 39.29959800014948)}",666,22,,22,Hopkins Fixed Cameras,-76.588022,39.299598
+"{type=Point, coordinates=List(-76.58870900019964, 39.29958200005046)}",667,17,,17,Hopkins Fixed Cameras,-76.588709,39.299582
+"{type=Point, coordinates=List(-76.58951899957492, 39.29955100022996)}",668,11,,11,Hopkins Fixed Cameras,-76.58951899,39.299551
+"{type=Point, coordinates=List(-76.61121111132152, 39.314006905675285)}",669,518,,Barclay St - 21st1/2 St,BPD Cameras/518-Barclay,-76.61121111,39.3140069
+"{type=Point, coordinates=List(-76.58666700031756, 39.29869456942223)}",670,603,,Monumnet/Collington,BPD Cameras/603 Monumne,-76.586667,39.29869456
+"{type=Point, coordinates=List(-76.65119100051875, 39.28193556924326)}",671,1027,,Smallwood/Ashton,BPD Cameras/1027 Smallw,-76.651191,39.28193556
+"{type=Point, coordinates=List(-76.61358784167695, 39.28647334256334)}",672,1924,,Pratt/Light,BPD Cameras/1924 -  Pra,-76.61358784,39.28647334
+"{type=Point, coordinates=List(-76.61754444428657, 39.28637301306182)}",673,1923,,Pratt/Sharp,BPD Cameras/1923 - Prat,-76.61754444,39.28637301
