@@ -1,0 +1,23 @@
+library(httr) 
+library(httpuv)  
+library(jsonlite)
+
+# 1. Find OAuth settings for github:
+#    http://developer.github.com/v3/oauth/
+oauth_endpoints("github")
+
+# 2. Register an application at https://github.com/settings/applications
+#    Insert your values below - if secret is omitted, it will look it up in
+#    the GITHUB_CONSUMER_SECRET environmental variable.
+#
+#    Use http://localhost:1410 as the callback url
+myapp <- oauth_app("github",key="c2c666a842ca53949bc6",secret = "5f4cc856c1842312215b19de2e38d880321b2fb3")
+
+# 3. Get OAuth credentials
+github_token <- oauth2.0_token(oauth_endpoints("github"), myapp)
+
+req <- GET("https://api.github.com/users/jtleek/repos", config(token = github_token))
+stop_for_status(req)
+json1 = content(req)
+json2 = jsonlite::fromJSON(toJSON(json1))
+json2
