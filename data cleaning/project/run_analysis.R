@@ -35,6 +35,7 @@ data=rbind(train,test)
 
 # creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 result=aggregate(data,by=list(subject.id,activity),FUN = mean)
+result_final=result[,3:71]
 
 #write the result to the data folder
-write.table(result,file='tidy_data.txt',row.names = False)
+write.table(result_final,file='../tidy_data.txt',row.names = FALSE)
