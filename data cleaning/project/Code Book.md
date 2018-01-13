@@ -4,10 +4,12 @@ I) Acquisition of the data
 The data we cleaned in this assignment are measured using the accelerometers and
 gyroscopes of Samsung cell phones J2. The measurement carried out in the time domain is
 captured at a constant rate of 50 Hz.
+
 II) Short description
 The data have been grouped by subject.id (1st column) and activity (last column).
 The rest of the column contain the mean for each variable described in III for each subject
 and each activity.
+
 III) Variables
 ? subject.id: ID of the subject
 ? activity: The activity carried out by the subject.
